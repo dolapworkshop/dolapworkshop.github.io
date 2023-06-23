@@ -1,1 +1,1 @@
-# dolapworkshop.github.io
+# DOLAP website
