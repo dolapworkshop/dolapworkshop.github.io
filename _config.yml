@@ -14,3 +14,4 @@ plugins:
 title: DOLAP
 description: International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 google_analytics: G-WLT2T3GPYF
+fixed_navbar: top
