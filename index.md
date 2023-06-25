@@ -3,7 +3,7 @@ layout: page
 title: International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 description: DOLAP is the International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 show_sidebar: false
-menubar: index-menu
+menubar: menu-index
 ---
 
 DOLAP has established as one of the reference places for researchers to publish their work in the broad area of data decision support systems. 
