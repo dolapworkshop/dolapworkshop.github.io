@@ -1,5 +1,14 @@
 ---
 ---
+
+#index-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250;
+}
+
 $primary: #191EA8;
+
 // Import Main CSS file from theme
 @import "main";
