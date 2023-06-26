@@ -14,5 +14,9 @@ $primary: #191EA8;
     padding-bottom: 3rem;
 }
 
+#navbar-logo {
+    height: 50px !important;
+}
+
 // Import Main CSS file from theme
 @import "main";
