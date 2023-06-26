@@ -11,11 +11,11 @@ hero_height: is-medium
 ---
 
 Like previous DOLAP workshops, DOLAP 2024 aims at synergistically connecting the research community and industry practitioners and provides an international forum where both researchers and practitioners can share their findings in theoretical foundations, current methodologies, and practical experiences, and where industry technology developers can describe technical details about their products and companies exploiting BI and Big Data technology can discuss case studies and experiences.
+ 
+Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.github.io/edbticdt2024/), DOLAP 2024 will also features some important news.
+- An interactive panel session to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
+- Shorter page limits (8 for full papers, 4 for short papers)
 
 # News
 
 (01/07/2023) The website is online.
- 
-DOLAP 2024 will features some important news.
-- An interactive panel session to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
-- Shorter page limits (8 for full papers, 4 for short papers)
