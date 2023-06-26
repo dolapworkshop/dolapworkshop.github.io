@@ -3,7 +3,7 @@ layout: page
 title: ""
 description: DOLAP is the International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 show_sidebar: false
-hero_image: /img/dolap_logo_new_wide.jpg
+hero_image: /img/dolap_logo_2024_wide.jpg
 hero_color: is-white
 hero_height: is-medium
 ---
