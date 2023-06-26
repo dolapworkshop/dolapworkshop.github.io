@@ -7,7 +7,7 @@ show_sidebar: false
 menubar: menu-2024
 hero_image: /img/hero/2024.jpg
 hero_darken: true
-hero_height: is-small
+hero_height: is-medium
 ---
 
 The website is online.
