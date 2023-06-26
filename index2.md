@@ -6,10 +6,10 @@ show_sidebar: false
 menubar: menu-index
 hero_image: /img/dolap_logo_new_h300.jpg
 hero_color: is-white
-hero_height: is-medium
+hero_height: is-fullheight
 ---
 
-#International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
+# International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 
 DOLAP is established as one of the reference places for researchers to publish their work in the broad area of data decision support systems. 
 DOLAP maintains a high quality of accepted papers, as attested by its ranking as "very good event" in the last edition of the 
