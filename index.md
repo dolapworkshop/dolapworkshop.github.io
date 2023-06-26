@@ -6,6 +6,8 @@ show_sidebar: false
 menubar: menu-index
 ---
 
+![DOLAP logo](/img/dolap_logo_new.jpg){: width="250" }
+
 DOLAP has established as one of the reference places for researchers to publish their work in the broad area of data decision support systems. 
 DOLAP maintains a high quality of accepted papers, as attested by its ranking as "very good event" in the last edition of the 
 [GII-GRIN-SCIE Conference Ranking](http://www.google.com/url?q=http%3A%2F%2Fgii-grin-scie-rating.scie.es%2F&sa=D&sntz=1&usg=AOvVaw3pURkvamEm2oo_dxQnpQpX). 
