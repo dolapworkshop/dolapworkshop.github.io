@@ -1,22 +1,16 @@
 ---
 ---
 
-#index-logo {
-    width: 250;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-$primary: #191EA8;
+/* $primary: #191EA8; */
+$primary: $blue;
 
 .footer {
     padding-bottom: 3rem;
 }
 
-#navbar-logo {
-    height: 50px !important;
-}
-
 // Import Main CSS file from theme
 @import "main";
+
+#navbar-logo {
+    height: 36px !important;
+}
