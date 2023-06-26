@@ -1,0 +1,25 @@
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <p class="">&copy; 
+                <span id="copyright">
+                    <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+                </span> 
+                DOLAP
+            </p>
+        </div>
+    </div>
+</footer>
