@@ -5,12 +5,16 @@
 $primary: #3273dc;
 
 .footer {
-    padding-bottom: 3rem;
+    padding-bottom: 3rem !important;
 }
 
-// Import Main CSS file from theme
-@import "main";
+.navbar-item img {
+    max-height: 3rem !important;
+}
 
 #navbar-logo {
     height: 36px !important;
 }
+
+// Import Main CSS file from theme
+@import "main";
