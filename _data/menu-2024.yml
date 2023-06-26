@@ -1,5 +1,7 @@
 - label: Contents
   items:
+    - name: News
+      link: /2024
     - name: Important dates
       link: /2024/important-dates
     - name: Call For Papers
