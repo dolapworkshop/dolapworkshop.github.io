@@ -22,6 +22,7 @@ Long papers include novel and mature research, industrial or survey work. Long p
 ## Interactive Panel Session on: TBD
 
 CFP 
+
 <!-- 
 The success of Big Data and NoSQL solutions has led to a de-escalation of the one-size-fits-all principle. The opportunity to build upon the distinctive strengths of different data models has pushed researchers and practitioners to the development of operational and analytical systems that rely on multiple persistence layers (e.g., polystore, multi-model systems). However, this trend has also opened several research issues, including the discovery, management, and integration of data on separate DBMSs, the study of data modeling best practices, and the capability of running efficient cross-DBMS analytical queries. DOLAP 2023 will devote a special session to Multi-Model Analytics to promote novel contributions in these directions. Relevant topics include, but are not limited to: 
 
