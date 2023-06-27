@@ -16,5 +16,12 @@ $primary: #3273dc;
     height: 36px !important;
 }
 
+#index-logo {
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // Import Main CSS file from theme
 @import "main";
