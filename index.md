@@ -12,7 +12,7 @@ hero_color: is-white
 hero_height: is-medium
 -->
 
-![DOLAP logo](/img/dolap_logo_2024_circle.png){: id="index-logo" }
+![DOLAP logo](/img/dolap_logo_2024_square.jpg){: id="index-logo" }
 
 # International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 
