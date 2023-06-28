@@ -29,4 +29,4 @@ description: Links to websites and proceedings of all the previous DOLAP edition
 - [Proceedings](https://dblp.org/rec/conf/dolap/2001) of the 4th DOLAP, Atlanta, GA, USA, 2001
 - [Proceedings](https://dblp.org/rec/conf/dolap/2000) of the 3rd DOLAP, Washington, DC, USA, 2000 - [Website](http://www.cis.drexel.edu/faculty/song/dolap.html) 
 - [Proceedings](https://dblp.org/rec/conf/dolap/99) of the 2nd DOLAP, Kansas City, Missouri, USA, 1999 - [Website](http://www.pages.drexel.edu/faculty/songiy/dolap99CFP.html) 
-- [Proceedings](https://dblp.org/rec/conf/dolap/98) of the 1st DOLAP, Bethesda, Maryland, 1998 - [Website](http://www.pages.drexel.edu/faculty/songiy/dolap98.html) 
+- [Proceedings](https://dblp.org/rec/conf/dolap/98) of the 1st DOLAP, Bethesda, Maryland, USA, 1998 - [Website](http://www.pages.drexel.edu/faculty/songiy/dolap98.html) 
