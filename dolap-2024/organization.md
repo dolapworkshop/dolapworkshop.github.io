@@ -12,7 +12,7 @@ hero_height: is-medium
 
 # Organization
 
-## DOLAP general Chair
+## General Chair
 
 - **Il-Yeol Song**, Drexel University, United States - song-at-drexel.edu 
 
