@@ -29,4 +29,4 @@ message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.g
 
 # News
 
-(10/07/2023) The website ~is~ will be online.
+(10/07/2023) The website ~~is~~ will be online.
