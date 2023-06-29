@@ -15,11 +15,12 @@ message="The website is still under construction"
 status="is-danger" 
 icon="fas fa-exclamation-triangle" %}
  
+  
 Like previous DOLAP workshops, DOLAP 2024 aims at synergistically connecting the research community and industry practitioners and provides an international forum where both researchers and practitioners can share their findings in theoretical foundations, current methodologies, and practical experiences, and where industry technology developers can describe technical details about their products and companies exploiting BI and Big Data technology can discuss case studies and experiences.
 
 {% include notification.html 
 icon="false" 
-status="" 
+status=" " 
 message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.github.io/edbticdt2024/), DOLAP 2024 will also features some important news.
 
 - An interactive panel session to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
