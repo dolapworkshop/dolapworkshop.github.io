@@ -3,7 +3,14 @@ layout: page
 title: Previous DOLAP editions
 subtitle: Proceedings and websites
 description: Links to websites and proceedings of all the previous DOLAP editions
+hero_image: /img/hero/proceedings.jpg
+hero_darken: true
+hero_height: is-medium
 ---
+
+# The DOLAP archive
+
+All references to the proceedings and website of previous DOLAP editions.
 
 - [Proceedings](https://ceur-ws.org/Vol-3369) of the 25th DOLAP, Ioannina, Greece, 2023 - [Website](https://sites.google.com/view/dolap2023)
 - [Proceedings](https://ceur-ws.org/Vol-3130) of the 24th DOLAP, Edinburgh, UK, 2022 - [Website](https://sites.google.com/view/dolap2022) 
