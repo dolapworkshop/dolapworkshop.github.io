@@ -12,6 +12,8 @@ callouts: callout-logo
 
 # The DOLAP logo
 
-Drawing a logo is not as easy as going to a [random AI-based image generator](https://hotpot.ai/art-generator) and asking to draw a logo for DOLAP (the result is in the banner). The historical logo of DOLAP is down below. After 25 years of workshops, we have revamped the logo to represent the main themes that are driving the scope of DOLAP.
+Drawing a logo is not as easy as going to a [random AI-based image generator](https://hotpot.ai/art-generator) and asking to draw a logo for DOLAP (the result is in the banner). After 25 years of workshops, we have revamped the [original logo](/img/dolap_logo_new.jpg) to represent the main themes that are driving the scope of DOLAP.
 
-![DOLAP logo](/img/dolap_logo_new.jpg){: id="index-logo" }
+{% include callouts.html %}
+
+<!--![DOLAP logo](/img/dolap_logo_new.jpg){: id="index-logo" }-->
