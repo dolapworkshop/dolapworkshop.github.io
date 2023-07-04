@@ -41,7 +41,7 @@ in order to produce new exciting results, within a strong, vibrant community aro
 
 ## The new logo
 
-After 25 years of workshops, we have revamped the [original logo](/img/dolap_logo_new.jpg) to represent the main themes that are driving the scope of DOLAP.
+After 25 years of workshops, we have revamped the [original logo](/img/dolap_logo_new.jpg) to represent the main themes that are driving the scope of DOLAP. While the cube is an obvious reference to the multidimensional data, here is the breakdown of the symbols on its sides.
 
 <div class="hero-body">
     <div class="container">
