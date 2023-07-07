@@ -19,3 +19,5 @@ Deadlines are at 11:59pm PST.
 - Authors notification: January 22, 2024
 - Camera-ready: February 16, 2024
 - Workshop date: March 25, 2024
+
+For submission instructions, please check [this link](/dolap-2024/call-for-papers#submission-instructions).
