@@ -22,22 +22,23 @@ DOLAP maintains a high quality of accepted papers, as attested by its ranking as
 Every year, the best papers published at DOLAP are invited to submit extended version to a special issue on a highly reputed international journal (like [Information Systems](https://www.sciencedirect.com/journal/information-systems) or [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)).
 Moreover, the high-quality program of DOLAP includes **invited keynotes** from reputed speakers, a **best paper** award since 2020, a **test-of-time award** since 2023, and uses **open proceedings** since 2017.
  
+## Research focus
+
 Research in data warehousing and OLAP has produced important technologies for the design, management, and use of information systems for decision support. 
 Nowadays, due to the advent of Big Data, Decision Support Systems (DSS) include a wider range of systems, in which novel solutions combine advanced data 
 management and data analytics, (semi-)automating the data lifecycle (from ingestion to visualization). 
-Yet, the DSS principles remain the same: these systems acknowledge the relevance of managing data in an efficient way (by means of data modeling and 
+Yet, modern data analytics systems acknowledge the relevance of managing data in an efficient way (by means of data modeling and 
 optimized data processing) to serve innovative data analysis bringing added value to organizations.
  
-DSS of the future will consequently be significantly different than what the current state-of-the-practice supports. 
+Data platforms of the future will consequently be significantly different than what the current state-of-the-practice supports. 
 The trend is to move from current systems that are "data presenting" to more dynamic systems that allow the semi-automation of the decision making process 
 (including both data management and data analysis tasks). This means that systems partially guide their users towards data discovery, management 
-and system-aided decision making via intelligent techniques (beyond OLAP) and visualization. 
+and system-aided decision making via intelligent techniques (beyond OLAP and exploiting artificial intelligence) and visualization. 
 In the backstage, the advent of the big data era requires that new methods, models, techniques and architectures are developed to cope with the increasing 
 demand in capacity, data type diversity, schema and data variability and responsiveness. 
-And of course, this does not necessarily mean to re-invent the wheel, but rather, complementing the wealth of research in DSS with other approaches. 
+And of course, this does not necessarily mean to re-invent the wheel, but rather, complementing the wealth of research in data management and anlytics with other approaches. 
  
-We envision DOLAP as a forum to discuss, foster and nurture novel ideas around these new landscapes of decision support systems in the era of big data 
-in order to produce new exciting results, within a strong, vibrant community around these areas.
+**We envision DOLAP as a forum to discuss, foster and nurture novel ideas** around these new landscapes of decision support systems and data platoforms in the era of big data in order to produce new exciting results, within a strong, vibrant community around these areas.
 
 ## The new logo
 
