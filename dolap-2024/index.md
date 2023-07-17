@@ -30,4 +30,6 @@ message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.g
 
 # News
 
-(17/07/2023) The website is online.
+(17/07/2023) Check out the [brand new logo](/#the-new-logo).
+
+(01/07/2023) The website is online.
