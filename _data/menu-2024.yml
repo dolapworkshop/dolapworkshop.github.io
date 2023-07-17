@@ -8,3 +8,9 @@
       link: /dolap-2024/call-for-papers
     - name: Organization
       link: /dolap-2024/organization
+- label: Social channels
+  items:
+    - name: "@DOLAPworkshop (Twitter)"
+      link: https://twitter.com/DOLAPworkshop
+    - name: "@DOLAPworkshop (Mastodon)"
+      link: https://mastodon.social/@DOLAPworkshop

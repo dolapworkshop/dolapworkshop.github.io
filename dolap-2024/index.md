@@ -32,4 +32,6 @@ message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.g
 
 (17/07/2023) Check out the [brand new logo](/#the-new-logo).
 
+(13/07/2023) Follow us on [Twitter](https://twitter.com/DOLAPworkshop) and [Mastodon](https://mastodon.social/@DOLAPworkshop).
+
 (01/07/2023) The website is online.
