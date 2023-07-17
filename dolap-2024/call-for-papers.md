@@ -20,8 +20,8 @@ The best papers presented at DOLAP will be invited to a special issue of [Inform
 - Short papers include (ongoing) novel research works with preliminary results and vision/position papers outlining research issues for future work.
 - Extended abstract will be invited to present in the interactive panel session, and include initial controversial ideas and visions, reports on early (or negative) results, or reflections on existing and future challenges on the theme of the interactive session. 
 
-The page limit is 8 pages for full papers, 4 pages for short papers, and 2 pages for extended abstracts (in ACM format). Each submission will be reviewed by 3 members of the program committee, the review process is single-blind, and thus authors must include their names and affiliations in submissions. 
-Extended abstracts are short papers with an abstract, a main body, and references but have only 2 standard pages of content references included. 
+The page limit is 8 pages for full papers, 4 pages for short papers, and 2 pages for extended abstracts (in CEUR format, double-column, excluding references). Each submission will be reviewed by 3 members of the program committee, the review process is single-blind, and thus authors must include their names and affiliations in submissions. 
+Extended abstracts are short papers with an abstract, a main body, and references but have only 2 standard pages of content, references included. 
  
 ## Interactive Panel Session on: Artificial Intelligence in Data Analytics
 
@@ -29,16 +29,6 @@ For DOLAP 2024, we solicit an extended abstract about perspectives on exciting a
 
 The panel session will feature short presentations followed by extensive and interactive discussions on the presented topics. We encourage the authors to propose topics and perspectives that will engage the audience and ignite debate among the participants. Ultimately, the goal is to tap into one of the original functions of workshops as a forum for discussion, where researchers come together to brainstorm and contribute to paving the way for future research directions.
 
-
-<!-- 
-The success of Big Data and NoSQL solutions has led to a de-escalation of the one-size-fits-all principle. The opportunity to build upon the distinctive strengths of different data models has pushed researchers and practitioners to the development of operational and analytical systems that rely on multiple persistence layers (e.g., polystore, multi-model systems). However, this trend has also opened several research issues, including the discovery, management, and integration of data on separate DBMSs, the study of data modeling best practices, and the capability of running efficient cross-DBMS analytical queries. DOLAP 2023 will devote a special session to Multi-Model Analytics to promote novel contributions in these directions. Relevant topics include, but are not limited to: 
-
-- Multistore and polystore solutions
-- Multi-model data warehouse and OLAP
-- Heterogenous data discovery, integration, and cleaning
-- Data modeling in multi-model systems
-- Query evaluation and optimization in multi-DBMS systems 
--->
 
 ## Research topics
 
@@ -65,6 +55,6 @@ Submissions will be accepted only through the submission site CMT at: [https://c
 
 <!-- Long papers cannot exceed 8 pages in length and short papers cannot exceed 4 pages in length. -->
 
-EDBT/ICDT Workshop papers must follow the ACM Proceedings Format slightly modified. Please use the modified ACM LaTeX2e style files based on the EDBT/ICDT template and containing the right copyright information for DOLAP (link to be published).
+DOLAP papers must follow the CEUR Proceedings Format. Please use the Overleaf template at [this link](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) and select the double-column format. Further instructions on copyright information for DOLAP will follow.
 
 The proceedings of the workshop will be published online as a volume of the [CEUR Workshop Proceedings](http://www.ceur-ws.org/), a well-known website for publishing workshop proceedings. It is indexed by the major publication portals, such as [DBLP](https://dblp.uni-trier.de/db/conf/dolap/index.html), Citeseer, and Google Scholar.
