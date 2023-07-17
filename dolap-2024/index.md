@@ -24,8 +24,8 @@ icon="false"
 status=" " 
 message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.github.io/edbticdt2024/), DOLAP 2024 will also features some important news.
 
-- An interactive panel session to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
-- Shorter page limits (8 for full papers, 4 for short papers)
+- An [interactive panel session](call-for-papers#interactive-panel-session-on-artificial-intelligence-in-data-analytics) to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
+- Shorter [page limits](call-for-papers#call-for-papers) (8 for full papers, 4 for short papers)
 " %} 
 
 # News
