@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-description: DOLAP is the International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
+description: Official website of the DOLAP workshop. DOLAP is the International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data. DOLAP is established as one of the reference places for researchers to publish their work in the broad area of data decision support systems, including data modeling, data management, and data analysis. The DOLAP workshop takes place within a well-known conference in the database area, usually EDBT/ICDT. The best papers published at the DOLAP workshop are invited to submit extended version to a special issue on a highly reputed international journal like Information Systems Data & Knowledge Engineering. The high-quality program of the DOLAP workshop includes invited keynotes from reputed speakers, a best paper award, a test-of-time award, and uses open proceedings.
 show_sidebar: false
 hide_hero: true
 ---
@@ -17,7 +17,7 @@ hero_height: is-medium
 # International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
 
 **DOLAP is established as one of the reference places for researchers** to publish their work in the broad area of data decision support systems. 
-DOLAP maintains a high quality of accepted papers, as attested by its ranking as "very good event" in the last edition of the 
+The DOLAP workshop maintains a high quality of accepted papers, as attested by its ranking as "very good event" in the last edition of the 
 [GII-GRIN-SCIE Conference Ranking](http://www.google.com/url?q=http%3A%2F%2Fgii-grin-scie-rating.scie.es%2F&sa=D&sntz=1&usg=AOvVaw3pURkvamEm2oo_dxQnpQpX). 
 Every year, the best papers published at DOLAP are invited to submit extended version to a special issue on a highly reputed international journal (like [Information Systems](https://www.sciencedirect.com/journal/information-systems) or [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)).
 Moreover, the high-quality program of DOLAP includes **invited keynotes** from reputed speakers, a **best paper** award since 2020, a **test-of-time award** since 2023, and uses **open proceedings** since 2017.
