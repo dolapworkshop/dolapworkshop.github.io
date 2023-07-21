@@ -23,9 +23,9 @@ hero_height: is-medium
 
 ## Steering Committee
 
-- **Alberto Abello**, Universitat Politecnica de Catalunya, Spain
+- **Alberto Abelló**, Universitat Politecnica de Catalunya, Spain
 - **Ladjel Bellatreche**, LIAS/ISAE-ENSMA, France
-- **Alfredo Cuzzocrea**, University of Trieste, Italy
+- **Alfredo Cuzzocrea**, Universitá della Calabria, Italy
 - **Carlos Garcia-Alvarado**, Amazon, USA
 - **Lukasz Golab**, University of Waterloo, Canada
 - **Matteo Golfarelli**, University of Bologna, Italy
@@ -35,61 +35,58 @@ hero_height: is-medium
 - **Torben Bach Pedersen**, Aalborg University, Denmark
 - **Stefano Rizzi**, University of Bologna, Italy
 - **Oscar Romero**, Universitat Politecnica de Catalunya, Spain
-- **Alkis Simitsis**, HP, USA
+- **Alkis Simitsis**, Athena Research Center, Greece
 - **Il-Yeol Song**, Drexel University, USA
 - **Kostas Stefanidis**, Tampere University, Finland
 - **Dimitri Theodoratos**, New Jersey Institute of Technology, USA
-- **Juan Trujillo**, University of Alicante, Spain
+- **Juan Carlos Trujillo**, University of Alicante, Spain
 - **Panos Vassiliadis**, University of Ioannina, Greece
 - **Robert Wrembel**, Poznan University of Technology, Poland
 - **Esteban Zimanyi**, Universite Libre de Bruxelles, Belgium
 
 ## Program Committee
 
-TBD
+(Not definitive)
 
-<!--
-- Alberto Abello, Universitat Politècnica de Catalunya
-- Julien Aligon, Université de Toulouse
-- Sandro Bimonte, INRAE
-- Lei Cao, The University of Arizona 
-- Tania Cerquitelli, Politecnico di Torino
+- Alberto Abelló, Universitat Politècnica de Catalunya
+- Julien Aligon, Université Toulouse 1 Capitole
+- Ladjel Bellatreche, ISAE-ENSMA
+- Rafael Berlanga Llavori, University Jaume I
+- Besim Bilalli, Universitat Politécnica de Catalunya
+- Tania Cerquitelli, Dipartimento di Automatica e Informatica Politecnico di Torino
 - Silvia Chiusano, Politecnico di Torino
-- Jérôme Darmont, Université de Lyon
-- Karen Davis, Miami University
-- Vasilis Efthymiou, ICS-FORTH
-- Fadila Fadila, ERIC Lab, Lyon University
-- Matteo Francia, University of Bologna
-- Johann Gamper, Free University of Bozen-Bolzano
-- Matteo Golfarelli, University of Bologna
-- Marcin Gorawski, Silesian University of Technology
+- Alfredo Cuzzocrea, Universitá della Calabria
+- Jerome Darmont, ERIC - Université Lumière Lyon 2
+- BENTAYEB Fadila, University Lumiere Lyon 2
+- Matteo Francia, DISI - University of Bologna
+- Pedro Furtado, Universidade de Coimbra
+- Johann Gamper, Free University of Bozen-Bolzano, Italy
+- Chang Ge, University of Minnesota
+- Lukasz Golab, University of Waterloo
+- Matteo Golfarelli, DISI - University of Bologna
+- Marcin Gorawski, Marcin Gorawski
 - Le Gruenwald, The University of Oklahoma
-- Petar Jovanovic, Universitat Politècnica De Catalunya - Barcelona Tech
-- Georgia Koutrika, Athena Research Center
-- Nicolas Labroche, Universite François-Rabelais, Tours
-- Daniel Lemire, LICEF Research Center, Université du Québec
-- Matteo Lissandrini, Aalborg University
-- Jose-Norberto Mazon, Universidad de Alicante
-- Rokia Missaoui, LARIM, UQO
-- Kjetil Nørvåg, Norwegian University of Science and Technology
+- Nicolas Labroche, University of Tours
+- Wolfgang Lehner, TU Dresden
+- Xiufeng Liu, Technical University of Denmark
+- Patrick Marcel, University of Tours
+- Jose-Norberto Mazón, Universidad de Alicante
+- Rokia Missaoui, UQO
+- Sergi Nadal, Universitat Politècnica de Catalunya
 - Carlos Ordonez, University of Houston
-- Torben Bach Pedersen, Aalborg University
-- Evaggelia Pitoura, University of Ioannina 
-- Oscar Romero, Universitat Politècnica de Catalunya 
-- Dimitris Sacharidis, ULB 
-- Mohamed Sharaf, United Arab Emirates University
+- Oscar Romero, Universitat Politècnica de Catalunya
+- Dimitris Sacharidis, ULB
 - Alkis Simitsis, Athena Research Center
+- Kostas Stefanidis, Tampere University
 - Arash Termehchy, Oregon State University
-- Olivier Teste, IRIT
-- Dimitri Theodoratos, NJIT
-- Maik Thiele, HTW Dresden
-- Christian Thomsen, Aalborg University 
-- Goce Trajcevski, Iowa State University
-- Juan Trujillo, University of Alicante
-- Katerina Tzompanaki, CY Cergy Paris University
-- Panos, Vassiliadis, University of Ioannina 
-- Robert Wrembel, Poznan Unviersity of Technology
--->
+- Dimitri Theodoratos, New Jersey Institute of Technology
+- Maik Thiele, Hochschule für Technik und Wirtschaft Dresden
+- Goce Trajcevski, Northwestern University
+- Juan Carlos Trujillo, University of Alicante
+- Panos Vassiliadis, University of Ioannina
+- Robert Wrembel, Poznan University of Technology
+- Esteban Zimanyi, Universite Libre de Bruxelles
+
 
 <!--
 ## Test-Of-Time Award Committee
