@@ -10,6 +10,11 @@ $primary: #3273dc;
     padding-bottom: 3rem !important;
 }
 
+.navbar-item ,
+.menu-label ,
+.menu-list a{
+    font-weight: bold;
+}
 .navbar-item img {
     max-height: 3rem !important;
 }
