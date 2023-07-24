@@ -36,11 +36,14 @@ $primary: #3273dc;
 
 
 
-.content h1:not(:first-child) ,
+.content h1:not(:first-child) { 
+ padding-top: 3.5rem;
+}
+
 .content h2:not(:first-child) ,
 .content h3:not(:first-child) ,
 .content h4:not(:first-child) ,
 .content h5:not(:first-child) ,
 .content h6:not(:first-child)  { 
- padding-top: 3.5rem;
+ padding-top: 1.5rem;
 }
