@@ -53,10 +53,13 @@ hero_height: is-medium
 - Ladjel Bellatreche, ISAE-ENSMA
 - Rafael Berlanga Llavori, University Jaume I
 - Besim Bilalli, Universitat Politécnica de Catalunya
+- Sandro Bimonte, INRAE
+- Martin Boissier, Hasso Plattner Institute
 - Tania Cerquitelli, Dipartimento di Automatica e Informatica Politecnico di Torino
 - Silvia Chiusano, Politecnico di Torino
 - Alfredo Cuzzocrea, Universitá della Calabria
 - Jerome Darmont, ERIC - Université Lumière Lyon 2
+- Stefania Dumbrava, ENSIIE
 - BENTAYEB Fadila, University Lumiere Lyon 2
 - Matteo Francia, DISI - University of Bologna
 - Pedro Furtado, Universidade de Coimbra
@@ -65,6 +68,7 @@ hero_height: is-medium
 - Lukasz Golab, University of Waterloo
 - Matteo Golfarelli, DISI - University of Bologna
 - Marcin Gorawski, Marcin Gorawski
+- Michael Grossniklaus, University of Konstanz
 - Le Gruenwald, The University of Oklahoma
 - Nicolas Labroche, University of Tours
 - Wolfgang Lehner, TU Dresden
@@ -74,16 +78,22 @@ hero_height: is-medium
 - Rokia Missaoui, UQO
 - Sergi Nadal, Universitat Politècnica de Catalunya
 - Carlos Ordonez, University of Houston
+- Matteo Paganelli, Università di Modena e Reggio Emilia
+- Torben Bach Pedersen, Aalborg University
 - Oscar Romero, Universitat Politècnica de Catalunya
 - Dimitris Sacharidis, ULB
 - Alkis Simitsis, Athena Research Center
+- Giovanni Simonini, University of Modena and Reggio Emilia
 - Kostas Stefanidis, Tampere University
 - Arash Termehchy, Oregon State University
+- Olivier Teste, IRIT, University of Toulouse
 - Dimitri Theodoratos, New Jersey Institute of Technology
 - Maik Thiele, Hochschule für Technik und Wirtschaft Dresden
+- Christian Thomsen, Aalborg University
 - Goce Trajcevski, Northwestern University
 - Juan Carlos Trujillo, University of Alicante
 - Panos Vassiliadis, University of Ioannina
+- Hannes Voigt, Neo4j
 - Robert Wrembel, Poznan University of Technology
 - Esteban Zimanyi, Universite Libre de Bruxelles
 
