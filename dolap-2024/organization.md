@@ -46,20 +46,23 @@ hero_height: is-medium
 
 ## Program Committee
 
-(Not definitive)
-
 - Alberto Abelló, Universitat Politècnica de Catalunya
 - Julien Aligon, Université Toulouse 1 Capitole
+- Wail Y Alkowaileet, Couchbase Inc.
 - Ladjel Bellatreche, ISAE-ENSMA
 - Rafael Berlanga Llavori, University Jaume I
 - Besim Bilalli, Universitat Politécnica de Catalunya
 - Sandro Bimonte, INRAE
+- Laurent Bindschaedler, MPI-SWS
 - Martin Boissier, Hasso Plattner Institute
+- Renata Borovica-Gajic, University of Melbourne
 - Tania Cerquitelli, Dipartimento di Automatica e Informatica Politecnico di Torino
 - Silvia Chiusano, Politecnico di Torino
 - Alfredo Cuzzocrea, Universitá della Calabria
 - Jerome Darmont, ERIC - Université Lumière Lyon 2
+- Karen C Davis, Miami University
 - Stefania Dumbrava, ENSIIE
+- Lorena Etcheverry, Universidad de la República
 - BENTAYEB Fadila, University Lumiere Lyon 2
 - Matteo Francia, DISI - University of Bologna
 - Pedro Furtado, Universidade de Coimbra
@@ -70,6 +73,7 @@ hero_height: is-medium
 - Marcin Gorawski, Marcin Gorawski
 - Michael Grossniklaus, University of Konstanz
 - Le Gruenwald, The University of Oklahoma
+- Shiva Jahangiri, Santa Clara University
 - Nicolas Labroche, University of Tours
 - Wolfgang Lehner, TU Dresden
 - Xiufeng Liu, Technical University of Denmark
@@ -80,6 +84,7 @@ hero_height: is-medium
 - Carlos Ordonez, University of Houston
 - Matteo Paganelli, Università di Modena e Reggio Emilia
 - Torben Bach Pedersen, Aalborg University
+- Reinhard Pichler, TU Wien
 - Oscar Romero, Universitat Politècnica de Catalunya
 - Dimitris Sacharidis, ULB
 - Alkis Simitsis, Athena Research Center
