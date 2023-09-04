@@ -20,7 +20,7 @@ hero_height: is-medium
 The DOLAP workshop maintains a high quality of accepted papers, as attested by its ranking as "very good event" in the last edition of the 
 [GII-GRIN-SCIE Conference Ranking](http://www.google.com/url?q=http%3A%2F%2Fgii-grin-scie-rating.scie.es%2F&sa=D&sntz=1&usg=AOvVaw3pURkvamEm2oo_dxQnpQpX). 
 Every year, the best papers published at DOLAP are invited to submit extended version to a special issue on a highly reputed international journal (like [Information Systems](https://www.sciencedirect.com/journal/information-systems) or [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)).
-Moreover, the high-quality program of DOLAP includes **invited keynotes** from reputed speakers, a **best paper** award since 2020, a **test-of-time award** since 2023, and uses **open proceedings** since 2017.
+Moreover, the high-quality program of DOLAP includes **invited keynotes** from reputed speakers, a **best paper** award since 2020, and uses **open proceedings** since 2017. A **test-of-time award** was given in 2023 to celebrate the 25th edition of DOLAP.
  
 ## Research focus
 
