@@ -30,7 +30,7 @@ hero_height: is-medium
 - **Lukasz Golab**, University of Waterloo, Canada
 - **Matteo Golfarelli**, University of Bologna, Italy
 - **Katja Hose**, Aalborg University, Denmark
-- **Patrick Marcel**, University of Tours, France
+- **Patrick Marcel**, University of Orléans, France
 - **Carlos Ordonez**, University of Houston, USA
 - **Torben Bach Pedersen**, Aalborg University, Denmark
 - **Stefano Rizzi**, University of Bologna, Italy
@@ -77,7 +77,7 @@ hero_height: is-medium
 - Nicolas Labroche, University of Tours
 - Wolfgang Lehner, TU Dresden
 - Xiufeng Liu, Technical University of Denmark
-- Patrick Marcel, University of Tours
+- Patrick Marcel, University of Orléans
 - Jose-Norberto Mazón, Universidad de Alicante
 - Rokia Missaoui, UQO
 - Sergi Nadal, Universitat Politècnica de Catalunya
