@@ -70,7 +70,7 @@ hero_height: is-medium
 - Chang Ge, University of Minnesota
 - Lukasz Golab, University of Waterloo
 - Matteo Golfarelli, DISI - University of Bologna
-- Marcin Gorawski, Marcin Gorawski
+- Marcin Gorawski, Silesian University of Technology
 - Michael Grossniklaus, University of Konstanz
 - Le Gruenwald, The University of Oklahoma
 - Shiva Jahangiri, Santa Clara University
