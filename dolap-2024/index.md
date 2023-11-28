@@ -30,7 +30,7 @@ message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.g
 
 # News
 
-(28/11/2023) [Deadlines](/#important-dates) for abstract and paper submissions have been extended.
+(28/11/2023) [Deadlines](important-dates) for abstract and paper submissions have been extended.
 
 (30/10/2023) We are pleased to announce that [Tova Milo](https://www.cs.tau.ac.il/~milo/) will be keynote speaker at DOLAP 2024.
 
