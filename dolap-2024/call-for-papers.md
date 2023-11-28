@@ -25,7 +25,15 @@ Extended abstracts are short papers with an abstract, a main body, and reference
  
 ## Interactive Panel Session on: Artificial Intelligence in Data Analytics
 
-For DOLAP 2024, we solicit an extended abstract about **perspectives on exciting and controversial issues of broad interest** to the community around the topic of artificial intelligence in data analytics. Extended abstract on this topic can present a vision as well as early or negative results, or comments that can influence recent advancements and research directions.
+For DOLAP 2024, we solicit an extended abstract about **perspectives on exciting and controversial issues of broad interest** to the community around the topic of artificial intelligence in data analytics. Extended abstract on this topic can present a vision as well as early or negative results, or comments that can influence recent advancements and research directions. For instance:
+
+- How is ML/AI changing the way that we approach data analysis?
+- Which are the new challenges that are we going to face when integrating AI in Data Analysis methods and Data Analysis in AI tools?
+- What about the risk of replacing/pushing away domain and technical experts as automation is being applied over the whole data lifecycle?
+- How far are AutoML techniques going to automate the decision-making process?
+- How should the democratization of data access and analysis hold off the risk of less-conscious decision-making? 
+- Will data fabrics be able to fully automate data pre-processing and integration pipelines through metadata and knowledge graph activation?
+- Which impacts will LLMs have on data analysis?
 
 The panel session will feature **short presentations followed by extensive and interactive discussions** on the presented topics. We encourage the authors to propose topics and perspectives that will engage the audience and ignite debate among the participants. Ultimately, the goal is to tap into one of the original functions of workshops as a forum for discussion, where researchers come together to brainstorm and contribute to paving the way for future research directions.
 
