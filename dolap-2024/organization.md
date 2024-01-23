@@ -95,7 +95,7 @@ hero_height: is-medium
 - Dimitri Theodoratos, New Jersey Institute of Technology
 - Maik Thiele, Hochschule für Technik und Wirtschaft Dresden
 - Christian Thomsen, Aalborg University
-- Goce Trajcevski, Northwestern University
+- Goce Trajcevski, Iowa State University
 - Juan Carlos Trujillo, University of Alicante
 - Panos Vassiliadis, University of Ioannina
 - Hannes Voigt, Neo4j
