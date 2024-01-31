@@ -20,7 +20,7 @@ To be announced
 
 ## About the speaker: Tova Milo
 
-![image](img/dolap_2024_TovaMilo.jpg)
+![image](/img/dolap_2024_TovaMilo.jpg)
 
 Tova Milo is the Dean of the Faculty of Exact Science at Tel Aviv University. She received her Ph.D. degree in Computer Science from the Hebrew University, Jerusalem, in 1992. After graduating she worked at the INRIA research institute in Paris and at University of Toronto and returned to Israel in 1995, joining the School of Computer Science at Tel Aviv university, where she is now a full Professor and holds the Chair of Information Management. She served as the Head of the Computer Science Department from 2011-2014. 
 
