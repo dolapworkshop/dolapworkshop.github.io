@@ -19,7 +19,7 @@ hero_height: is-medium
 ## Program co-Chairs
 
 - **Enrico Gallinucci**, University of Bologna, Italy - enrico.gallinucci-at-unibo.it
-- **Matteo Lissandrini**, Aalborg University, Denmark - matteo-at-cs.aau.dk
+- **Matteo Lissandrini**, University of Verona, Italy & Aalborg University, Denmark - matteo.lissandrini-at-univr.it
 
 ## Steering Committee
 
