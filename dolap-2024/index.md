@@ -30,6 +30,8 @@ message="Co-located with the [EDBT/ICDT 2024 Joint Conference](https://dastlab.g
 
 # News
 
+(04/03/2024) The [program](program) has been published and the best paper of DOLAP 2024 has been selected: congratulations to Kristo Raun, Riccardo Tommasini, and Ahmed Awad for their paper on *Adaptive Handling of Out-of-order Streams in Conformance Checking*.
+
 (23/02/2024) The list of [accepted papers](accepted-papers) has been published.
 
 (28/11/2023) [Deadlines](important-dates) for abstract and paper submissions have been extended.
