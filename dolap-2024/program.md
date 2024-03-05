@@ -25,7 +25,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 11:00-12:05 **Research session I - Data Warehousing and Query Optimization**
 
 - Tomas Felipe LLano-Rios, Mohamed Khalefa, Antonio Badia. *A JSON Document Algebra for Query Optimization*
-- Camila Sanz, Adriana Marotta. *Context Based Completeness Assessment for Data Warehouse Hierarchies* (short paper)
+- <span style="color:#093">Camila Sanz</span>, Adriana Marotta. *Context Based Completeness Assessment for Data Warehouse Hierarchies* (short paper)
 - Yuto Ikeda, Chuan Xiao, Makoto Onizuka. *An Efficient Diversity-Aware Method for the Empty-Answer Problem* (short paper)
 
 12:05-13:00 **Research session II - Data Lakes and Data Platforms**
