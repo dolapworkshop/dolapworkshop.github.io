@@ -10,27 +10,28 @@ hero_darken: true
 hero_height: is-medium
 ---
 
+
 # Program
 
-Times are in CET - Central European Time (UTC+1h).
+Times are in CET - Central European Time (UTC+1h). Presenting authors are shown in <span style="color:#062">green</span>.
 
 9:00-10:30 **Opening, Keynote, Best paper**
 - DOLAP 2024 Opening - Enrico Gallinucci, Matteo Lissandrini
-- <u>Keynote</u> - Tova Milo. [*Data, more data, too much data*](keynote)
+- <u>Keynote</u> - <span style="color:#062">Tova Milo</span>. [*Data, more data, too much data*](keynote)
 - <u>Best paper</u> - Kristo Raun, Riccardo Tommasini, Ahmed Awad. *Adaptive Handling of Out-of-order Streams in Conformance Checking*
 
 10:30-11:00 Coffee break
 
 11:00-12:05 **Research session I - Data Warehousing and Query Optimization**
 
-- Antonio Badia, Mohamed Khalefa, Tomas Felipe LLano-Rios. *A JSON Document Algebra for Query Optimization*
+- Tomas Felipe LLano-Rios, Mohamed Khalefa, Antonio Badia. *A JSON Document Algebra for Query Optimization*
 - Camila Sanz, Adriana Marotta. *Context Based Completeness Assessment for Data Warehouse Hierarchies* (short paper)
 - Yuto Ikeda, Chuan Xiao, Makoto Onizuka. *An Efficient Diversity-Aware Method for the Empty-Answer Problem* (short paper)
 
 12:05-13:00 **Research session II - Data Lakes and Data Platforms**
 
-- Aniol Bisquert Parés, Achraf Hmimou, Josep L Berral, Alberto Gutierrez-Torre, Oscar Romero. *HealthMesh: An Architectural Framework for Federated Healthcare Data Management*
-- Matteo Francia, Matteo Golfarelli, Manuele Pasini. *Towards a Process-Driven Design of Data Platforms*
+- <span style="color:#062">Aniol Bisquert Parés</span>, <span style="color:#062">Achraf Hmimou</span>, Josep L Berral, Alberto Gutierrez-Torre, Oscar Romero. *HealthMesh: An Architectural Framework for Federated Healthcare Data Management*
+- Matteo Francia, Matteo Golfarelli, <span style="color:#062">Manuele Pasini</span>. *Towards a Process-Driven Design of Data Platforms*
 - Marc Maynou, Sergi Nadal. *Discovery of Semantic Non-Syntactic Joins* (short paper)
 
 13:00-14:30 Lunch
@@ -39,7 +40,7 @@ Times are in CET - Central European Time (UTC+1h).
 
 - Adam Charane, Matteo Ceccarello, Johann Gamper. *Shapelets Evaluation using Silhouettes for Time Series Classification*
 - Uchechukwu F Njoku, Alberto Abello, Besim Bilalli, Gianluca Bontempi. *A Data-Science Pipeline to Enable the Interpretability of Many-Objective Feature Selection* (short paper)
-- Md Mahade Hasan, Soha Pervez, Maria Stratigi, Kostas Stefanidis. *SQUIRREL 2.0: Fairness & Explanations for Sequential Group Recommendations* (short paper)
+- Md Mahade Hasan, Soha Pervez, Maria Stratigi, <span style="color:#062">Kostas Stefanidis</span>. *SQUIRREL 2.0: Fairness & Explanations for Sequential Group Recommendations* (short paper)
 - Ricky Sun, Yuri Simione, Jason Zhang, Victor Wang. *Graph XAI: Graph-agumented AI with Accuracy, Depth, Explainability, and Velocity*
 
 16:00-16:30 Coffee break
@@ -49,7 +50,7 @@ Times are in CET - Central European Time (UTC+1h).
 - Tatsawan Timakum, Soobin Lee, Haotian Hu, Il-Yeol Song, Min Son. *DOLAP: A 25 Year Journey Through Research Trends and Performance* (invited paper)
 - <u>Interactive Panel Session</u> - Artificial Intelligence in Data Analytics
     - Besim Bilalli, Petar Jovanovic, Sergi Nadal, Anna Queralt, Oscar Romero. *There is no Data Science without Data Governance: a Proposal Based on Knowledge Graphs*
-    - Robert Wrembel. *Optimizing Data Integration Processes with the Support of Machine learning - Is it really possible?*
-    - Georgia Koutrika. *AI and Human in Data Analytics: Who leads this Dance?*
+    - <span style="color:#062">Robert Wrembel</span>. *Optimizing Data Integration Processes with the Support of Machine learning - Is it really possible?*
+    - <span style="color:#062">Georgia Koutrika</span>. *AI and Human in Data Analytics: Who leads this Dance?*
 
 18:00-19:00 **Steering Committee meeting**
