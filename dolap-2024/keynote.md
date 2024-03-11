@@ -15,7 +15,14 @@ hero_height: is-medium
 ## Title:  Data, more data, too much data
 
 **Abstract** 
-To be announced
+Over the past 30 years, the world of data management has undergone a dramatic evolution, allowing us to consider an increasingly wide range of data types, sources, and processing models. 
+This has also led to the collection of tremendous volumes of data, and we are now at a point where almost every aspect of our lives is data-driven. 
+In this talk, I will share my perspective on some of the "hot topics" that I have been personally involved with in this evolution, and discuss why certain research topics become popular and when they lose their relevance. 
+I will furthermore argue that we are now facing a turning point where the deluge of data has become a
+serious risk, and that the next "hot" research agenda should focus on data disposal.
+Despite advances in storage technology, the amount of data generated is projected to surpass storage production by an order of magnitude by 2025, and uncontrolled data retention further poses significant risks to security and privacy. 
+I will discuss the logical, algorithmic, and methodological foundations necessary for the systematic disposal of large-scale data, highlighting new research challenges and the potential for reusing existing techniques. 
+I will also share insights from the research conducted by the Tel Aviv Databases group in this direction. 
 
 
 ## About the speaker: Tova Milo
