@@ -30,7 +30,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 12:05-13:00 **Research session II - Data Lakes and Data Platforms**
 
-- <span style="color:#093">Aniol Parés</span>, <span style="color:#093">Achraf Hmimou</span>, Josep L Berral, Alberto Gutierrez-Torre, Oscar Romero. *HealthMesh: An Architectural Framework for Federated Healthcare Data Management*
+- <span style="color:#093">Aniol Bisquert</span>, <span style="color:#093">Achraf Hmimou</span>, Josep L Berral, Alberto Gutierrez-Torre, Oscar Romero. *HealthMesh: An Architectural Framework for Federated Healthcare Data Management*
 - Matteo Francia, Matteo Golfarelli, <span style="color:#093">Manuele Pasini</span>. *Towards a Process-Driven Design of Data Platforms*
 - <span style="color:#093">Marc Maynou</span>, Sergi Nadal. *Discovery of Semantic Non-Syntactic Joins* (short paper)
 
