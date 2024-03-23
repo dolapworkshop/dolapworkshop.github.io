@@ -47,7 +47,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 16:30-18:00 **Invited talk, Panel**
 
-- Tatsawan Timakum, Soobin Lee, Haotian Hu, Il-Yeol Song, Min Song. *DOLAP: A 25 Year Journey Through Research Trends and Performance* (invited paper)
+- Tatsawan Timakum, Soobin Lee, Haotian Hu, <span style="color:#093">Il-Yeol Song</span>, Min Song. *DOLAP: A 25 Year Journey Through Research Trends and Performance* (invited paper)
 - <u>Interactive Panel Session</u> - Artificial Intelligence in Data Analytics
     - Besim Bilalli, Petar Jovanovic, Sergi Nadal, Anna Queralt, <span style="color:#093">Oscar Romero</span>. *There is no Data Science without Data Governance: a Proposal Based on Knowledge Graphs*
     - <span style="color:#093">Robert Wrembel</span>. *Optimizing Data Integration Processes with the Support of Machine learning - Is it really possible?*
