@@ -24,7 +24,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 11:00-11:55 **Research session I - Data Warehousing and Query Optimization**
 
-- Tomas Felipe LLano-Rios, Mohamed Khalefa, Antonio Badia. *A JSON Document Algebra for Query Optimization*
+- Tomas Felipe LLano-Rios, Mohamed Khalefa, <span style="color:#093">Antonio Badia</span>. *A JSON Document Algebra for Query Optimization*
 - <span style="color:#093">Camila Sanz</span>, Adriana Marotta. *Context Based Completeness Assessment for Data Warehouse Hierarchies* (short paper)
 - <span style="color:#093">Yuto Ikeda</span>, Chuan Xiao, Makoto Onizuka. *An Efficient Diversity-Aware Method for the Empty-Answer Problem* (short paper)
 
@@ -38,7 +38,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 14:30-16:00 **Research session III - Machine Learning and Artificial Intelligence**
 
-- Adam Charane, Matteo Ceccarello, Johann Gamper. *Shapelets Evaluation using Silhouettes for Time Series Classification*
+- <span style="color:#093">Adam Charane</span>, Matteo Ceccarello, Johann Gamper. *Shapelets Evaluation using Silhouettes for Time Series Classification*
 - <span style="color:#093">Uchechukwu F Njoku</span>, Alberto Abello, Besim Bilalli, Gianluca Bontempi. *A Data-Science Pipeline to Enable the Interpretability of Many-Objective Feature Selection* (short paper)
 - Md Mahade Hasan, Soha Pervez, Maria Stratigi, <span style="color:#093">Kostas Stefanidis</span>. *SQUIRREL 2.0: Fairness & Explanations for Sequential Group Recommendations* (short paper)
 - Ricky Sun, <span style="color:#093">Yuri Simione</span>, Jason Zhang, Victor Wang. *Graph XAI: Graph-agumented AI with Accuracy, Depth, Explainability, and Velocity*
