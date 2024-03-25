@@ -36,7 +36,7 @@ Drawing a logo is not as easy as going to a [random AI-based image generator](ht
                 <div class="content">
                     The big data revolution imposed disruptive changes at the levels of the 4 Vs 
                     (volume, velocity, variety, veracity), pushing researchers and practitioners into rethinking
-                    practices of data (and metadata) managament and analytical processing
+                    practices of data (and metadata) management and analytical processing
                 </div>
             </div>
             <div class="column is-4 has-text-centered">
