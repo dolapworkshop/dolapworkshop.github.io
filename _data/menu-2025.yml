@@ -1,0 +1,16 @@
+- label: DOLAP 2025
+  items:
+    - name: News
+      link: /dolap-2025#news
+    - name: Important dates
+      link: /dolap-2025/important-dates
+    - name: Call For Papers
+      link: /dolap-2025/call-for-papers
+    - name: Organization
+      link: /dolap-2025/organization
+- label: Social channels
+  items:
+    - name: "@DOLAPworkshop (X/Twitter)"
+      link: https://twitter.com/DOLAPworkshop
+    - name: "@DOLAPworkshop (Mastodon)"
+      link: https://mastodon.social/@DOLAPworkshop
