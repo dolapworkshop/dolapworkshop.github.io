@@ -18,8 +18,9 @@ hero_height: is-medium
 
 ## Program co-Chairs
 
-- **Enrico Gallinucci**, University of Bologna, Italy - enrico.gallinucci-at-unibo.it
-- **Matteo Lissandrini**, University of Verona, Italy & Aalborg University, Denmark - matteo.lissandrini-at-univr.it
+
+- **Matteo Lissandrini**, University of Verona, Italy - matteo.lissandrini-at-univr.it
+- **Alejandro Maté**, University of Alicante, Spain - amate@dlsi.ua.es
 
 ## Steering Committee
 
