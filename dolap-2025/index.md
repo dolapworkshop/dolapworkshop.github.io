@@ -30,4 +30,6 @@ message="Co-located with the [EDBT/ICDT 2025 Joint Conference](https://edbticdt2
 
 # News
 
+
+(01/10/2024) Call for papers and for Interactive Panel Session on Federated and Distributed Data Spaces
 (24/07/2024) The website is online.
