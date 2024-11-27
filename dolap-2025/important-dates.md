@@ -14,9 +14,9 @@ hero_height: is-medium
 
 Deadlines are at 11:59pm PST.
 
-- Abstract submission: November 29, 2024
-- Paper submission: December 6, 2024
-- Authors notification: January 22, 2025
+- Abstract submission: ~~November 29~~ **December 13th, 2024**
+- Paper submission: ~~December 6~~ **December 20th, 2024**
+- Authors notification: ~~January 22~~ **January 30th, 2025**
 - Camera-ready: February 16, 2025
 - Workshop date: March 25, 2025
 
