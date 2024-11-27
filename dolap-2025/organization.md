@@ -47,14 +47,14 @@ hero_height: is-medium
 
 ## Program Committee
 
-- **Alberto Abelló, Universitat Politècnica de Catalunya 
-- **Julien Aligon, Université Toulouse 1 Capitole
-- **Ahmed MHA Awad, The British University in Dubai
-- **Antonio Badia, University of Louisville
-- **Ladjel Bellatreche, ISAE-ENSMA
-- **Rafael Berlanga Llavori, University Jaume I
-- **Besim Bilalli, Universitat Politécnica de Catalunya
-- **Laurent Bindschaedler, MPI-SWS
+- **Alberto Abelló**, Universitat Politècnica de Catalunya 
+- **Julien Aligon**, Université Toulouse 1 Capitole
+- **Ahmed MHA Awad**, The British University in Dubai
+- **Antonio Badia**, University of Louisville
+- **Ladjel Bellatreche**, ISAE-ENSMA
+- **Rafael Berlanga Llavori**, University Jaume I
+- **Besim Bilalli**, Universitat Politécnica de Catalunya
+- **Laurent Bindschaedler**, MPI-SWS
 - **Martin Boissier**, Hasso Plattner Institute
 - **Tania Cerquitelli**, Politecnico di Torino
 - **Silvia Chiusano**, Politecnico di Torino
@@ -89,7 +89,7 @@ hero_height: is-medium
 - **Dimitris Sacharidis**,  ULB
 - **Alkis Simitsis**, Athena Research Center
 - **Kostas Stefanidis**,  Tampere University
-- **Olivier Teste**,  IRIT**, University of Toulouse
+- **Olivier Teste**,  IRIT, University of Toulouse
 - **Dimitri Theodoratos**, New Jersey Institute of Technology
 - **Maik Thiele**, Hochschule für Technik und Wirtschaft Dresden
 - **Christian Thomsen**, Aalborg University
