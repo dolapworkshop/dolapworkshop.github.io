@@ -32,7 +32,10 @@ message="Co-located with the [EDBT/ICDT 2025 Joint Conference](https://edbticdt2
 # News
 
 
-(12/12/2024) Announced keynote speaker [Prof. Edward Curry](keynote)
-(27/11/2024) Announced Program Commiteee
-(01/10/2024) Call for papers and for Interactive Panel Session on Federated and Distributed Data Spaces
-(24/07/2024) The website is online.
+- (12/12/2024) Announced keynote speaker [Prof. Edward Curry](keynote)
+
+- (27/11/2024) Announced Program Commiteee
+
+- (01/10/2024) Call for papers and for Interactive Panel Session on Federated and Distributed Data Spaces
+
+- (24/07/2024) The website is online.
