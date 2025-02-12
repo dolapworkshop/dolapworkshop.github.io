@@ -51,8 +51,9 @@ The accepted papers are listed in no particular order.
 - **Challenges to Enforce Data Quality in Data Spaces**,	Claudia Ayala (Universitat Politècnica de Catalunya); Besim Bilalli (Universitat Politècnica de Catalunya); Cristina Gómez (Universitat Politècnica de Catalunya); Jose-Norberto Mazón (Universidad de Alicante)*; Óscar Romero (Universitat Politècnica de Catalunya)	
 
 
-- **Toward Advanced Query Processing in Dataspaces**,	Christoph Quix (Hochule Niederrhein University of Applied Sciences)*	Accept as Panel
-Data Analytics and Artificial Intelligence in the new scenario of Data Spaces	Juan Trujillo (University of Alicante)*; Gustavo Candela (University of Alicante); Alejandro Reina-Reina (University of Alicante)
+- **Toward Advanced Query Processing in Dataspaces**,	Christoph Quix (Hochule Niederrhein University of Applied Sciences)*
+  
+- **Data Analytics and Artificial Intelligence in the new scenario of Data Spaces**	Juan Trujillo (University of Alicante)*; Gustavo Candela (University of Alicante); Alejandro Reina-Reina (University of Alicante)
 
 
 
