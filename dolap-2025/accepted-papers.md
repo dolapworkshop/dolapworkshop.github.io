@@ -43,6 +43,8 @@ The accepted papers are listed in no particular order.
 - **The Case for Instance-Optimized LLMs in OLAP Databases**	Bardia Mohammadi (MPI-SWS)*; Laurent Bindschaedler (MPI-SWS)	Accept as Short
 Beyond Row Counts: Enhancing Workload-Aware Data Synthesis	Anupam Sanghi (TU Darmstadt)*
 
+- **A Diversity-aware Approach to Bundle Recommendations**,	Nastaran Ebrahimi (Tampere University); Zheying  Zhang  (Tampere University); Kostas Stefanidis (Tampere University)*
+
 
 ## Accepted panel papers
 
@@ -54,5 +56,4 @@ Beyond Row Counts: Enhancing Workload-Aware Data Synthesis	Anupam Sanghi (TU Dar
 Data Analytics and Artificial Intelligence in the new scenario of Data Spaces	Juan Trujillo (University of Alicante)*; Gustavo Candela (University of Alicante); Alejandro Reina-Reina (University of Alicante)
 
 
-- **A Diversity-aware Approach to Bundle Recommendations**,	Nastaran Ebrahimi (Tampere University); Zheying  Zhang  (Tampere University); Kostas Stefanidis (Tampere University)*
 
