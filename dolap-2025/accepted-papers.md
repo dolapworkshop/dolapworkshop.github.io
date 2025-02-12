@@ -32,14 +32,15 @@ The accepted papers are listed in no particular order.
 
 - **Using ChatGPT to refine draft conceptual schemata in supply-driven design of multidimensional cubes**,	Stefano Rizzi (DISI - University of Bologna)*
 
-- **Workload Cost Optimization Using Dynamic Replication in Decentralized Systems**,	Ryoga Yoshida (Osaka University)*; Chuan Xiao (Osaka University); Makoto Onizuka (Osaka University)	Accept as Short
+- **Workload Cost Optimization Using Dynamic Replication in Decentralized Systems**,	Ryoga Yoshida (Osaka University)*; Chuan Xiao (Osaka University); Makoto Onizuka (Osaka University)	
 
-- **Content-based catalogs for improving discovery services in data spaces**,	Adriana Morejón (Universidad de Alicante); Alberto Berenguer (Universidad de Alicante); Lucía de Espona (Universidad de Alicante); David Tomás (Universidad de Alicante); Jose-Norberto Mazón (Universidad de Alicante)*	Accept as Short
+- **Content-based catalogs for improving discovery services in data spaces**,	Adriana Morejón (Universidad de Alicante); Alberto Berenguer (Universidad de Alicante); Lucía de Espona (Universidad de Alicante); David Tomás (Universidad de Alicante); Jose-Norberto Mazón (Universidad de Alicante)*	
 
 - **Causal Banzhaf Value for aggregate query explanations**,	Pouya Khani (Aarhus University)*; Ira Assent (Aarhus University)
   
-- **The Case for Instance-Optimized LLMs in OLAP Databases**	Bardia Mohammadi (MPI-SWS)*; Laurent Bindschaedler (MPI-SWS)	Accept as Short
-Beyond Row Counts: Enhancing Workload-Aware Data Synthesis	Anupam Sanghi (TU Darmstadt)*
+- **The Case for Instance-Optimized LLMs in OLAP Databases**	Bardia Mohammadi (MPI-SWS)*; Laurent Bindschaedler (MPI-SWS)
+
+- **Beyond Row Counts: Enhancing Workload-Aware Data Synthesis**	Anupam Sanghi (TU Darmstadt)*
 
 - **A Diversity-aware Approach to Bundle Recommendations**,	Nastaran Ebrahimi (Tampere University); Zheying  Zhang  (Tampere University); Kostas Stefanidis (Tampere University)*
 
