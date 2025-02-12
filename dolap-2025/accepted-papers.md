@@ -10,8 +10,6 @@ hero_darken: true
 hero_height: is-medium
 ---
 
-[immagine](https://github.com/user-attachments/assets/c798292f-ce41-4eea-9b1a-ec558c4e6433)
-
 # Accepted papers
 
 The accepted papers are listed in no particular order.
