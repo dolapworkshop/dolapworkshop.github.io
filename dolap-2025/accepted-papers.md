@@ -21,7 +21,7 @@ The accepted papers are listed in no particular order.
 - **Finding comparison insights in multidimensional datasets**,	Patrick Marcel (University of Orléans)*; Claire Antoine (University of Tours); Alexandre Chanson (University of Tours); Nicolas Labroche (University of Tours)	
 
 
-- **Counterfactual Explanations for Group Recommendations**, Maria Stratigi (Tampere University)*; Nikos Bikakis (Hellenic Mediterranean University); Konstantinos Stefanidis (Tampere University)
+- **Counterfactual Explanations for Group Recommendations**, Maria Stratigi (Tampere University)*; Nikos Bikakis (Hellenic Mediterranean University); Kostas Stefanidis (Tampere University)
 
 - **Entity Resolution with Small-Scale LLMs: A Study on Prompting Strategies and Hardware Limitations**,	Ioannis Arvanitis-Kasinikos (Public Power Corporation); George Papadakis (University of Athens)*	
 
@@ -48,7 +48,7 @@ The accepted papers are listed in no particular order.
 ## Accepted panel papers
 
 
-- **Challenges to Enforce Data Quality in Data Spaces**,	Claudia Ayala (Universitat Politècnica de Catalunya); Besim Bilalli (Universitat Politècnica de Catalunya); Cristina Gómez (Universitat Politècnica de Catalunya); Jose-Norberto Mazón (Universidad de Alicante)*; Óscar Romero (Universitat Politècnica de Catalunya)	
+- **Challenges to Enforce Data Quality in Data Spaces**,	Claudia Ayala (Universitat Politècnica de Catalunya); Besim Bilalli (Universitat Politècnica de Catalunya); Cristina Gómez (Universitat Politècnica de Catalunya); Jose-Norberto Mazón (Universidad de Alicante)*; Oscar Romero (Universitat Politècnica de Catalunya)	
 
 
 - **Toward Advanced Query Processing in Dataspaces**,	Christoph Quix (Hochule Niederrhein University of Applied Sciences)*
