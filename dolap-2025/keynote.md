@@ -16,7 +16,25 @@ hero_height: is-medium
 
 **Abstract** 
 
-[ To be announced ]
+Two significant trends have significantly changed the global
+Artificial Intelligence (AI) and Data landscape. Recent AI and Machine
+Learning developments drive a paradigm shift to creating large
+task-agnostic models pre-trained using web-scale data. These
+Foundational Models are then adapted to different downstream tasks via
+techniques such as fine-tuning. At the same time, we see a movement to
+the creation of large-scale data-sharing infrastructures. Data Spaces
+are an emerging approach to data management, sharing, and
+collaboration at the core of the European Data Strategy. This talk
+will explore the symbiotic relationship between data spaces and AI and
+delves into the complexities of this relationship, highlighting how
+data spaces facilitate the seamless flow of data essential for AI
+training. If managed effectively, this symbiotic relationship can
+unlock new frontiers in AI research, paving the way for a more
+connected and intelligent world. Key challenges discussed include data
+privacy, standardisation, interoperability, and the need for robust
+data governance frameworks. The talk examines emerging trends such as
+neuro-symbolic AI, the rise of synthetic data, and the increasing
+importance of ethical and trustworthy AI practices.
 
 ## About the speaker: 
 
