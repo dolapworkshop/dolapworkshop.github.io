@@ -23,7 +23,7 @@ The accepted papers are listed in no particular order.
 
 - **Counterfactual Explanations for Group Recommendations**, Maria Stratigi (Tampere University)*; Nikos Bikakis (Hellenic Mediterranean University); Kostas Stefanidis (Tampere University)
 
-- **Entity Resolution with Small-Scale LLMs: A Study on Prompting Strategies and Hardware Limitations**,	Ioannis Arvanitis-Kasinikos (Public Power Corporation); George Papadakis (University of Athens)*	
+- **Entity Matching with 7B LLMs: A Study on Prompting Strategies and Hardware Limitations**,	Ioannis Arvanitis-Kasinikos (Public Power Corporation); George Papadakis (University of Athens)*	
 
 - **Optimizing Big Active Data Management Systems**,	Shahrzad Haji Amin Shirazi (University of California,Riverside)*; Xikui Wang (University of California,Irvine); Michael  Carey (University of California,Irvine); Vassilis  Tsotras (University of California,Riverside)
 
