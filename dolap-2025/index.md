@@ -31,6 +31,7 @@ message="Co-located with the [EDBT/ICDT 2025 Joint Conference](https://edbticdt2
 
 # News
 
+- (16/02/2025) Announced  [list of accepted papers](accepted-papers)
 
 - (12/12/2024) Announced keynote speaker [Prof. Edward Curry](keynote)
 
