@@ -27,6 +27,7 @@ hero_height: is-medium
 - **Alberto Abelló**, Universitat Politecnica de Catalunya, Spain
 - **Ladjel Bellatreche**, LIAS/ISAE-ENSMA, France
 - **Alfredo Cuzzocrea**, Universitá della Calabria, Italy
+- **Enrico Gallinucci**, University of Bologna
 - **Carlos Garcia-Alvarado**, Amazon, USA
 - **Lukasz Golab**, University of Waterloo, Canada
 - **Matteo Golfarelli**, University of Bologna, Italy
