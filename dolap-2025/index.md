@@ -31,6 +31,10 @@ message="Co-located with the [EDBT/ICDT 2025 Joint Conference](https://edbticdt2
 
 # News
 
+- (03/03/2025) Announced [program of the workshop](program)
+
+- (27/02/2025) Published [CEUR proceedings](https://ceur-ws.org/Vol-3931/)
+
 - (16/02/2025) Announced  [list of accepted papers](accepted-papers)
 
 - (12/12/2024) Announced keynote speaker [Prof. Edward Curry](keynote)
