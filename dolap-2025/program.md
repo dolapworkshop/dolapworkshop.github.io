@@ -37,7 +37,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 - <u>Best paper</u> - Enrico Gallinucci, Matteo Golfarelli, Wafaa Radwan, Gabriel Zarate, Alberto Abelló. *Impact Study of NoSQL Refactoring in SkyServer Database*
 - Patrick Marcel, Claire Antoine, Alexandre Chanson, Nicolas Labroche. *Finding comparison insights in multidimensional datasets
-Stefano Rizzi. Using ChatGPT to refine draft conceptual schemata in supply-driven design of multidimensional cubes (Short paper)*
+- Stefano Rizzi. Using ChatGPT to refine draft conceptual schemata in supply-driven design of multidimensional cubes (Short paper)*
 - Pouya Khani, Ira Assent. *Causal Banzhaf Value for aggregate query explanations (Short paper)*
 - Bardia Mhammadi, Laurent Bindschaedler. *The Case for Instance-Optimized LLMs in OLAP Databases (Short paper)*
 
