@@ -29,7 +29,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
   - Claudia Ayala, Besim Bilalli, Cristina Gómez, José-Norberto Mazón, Oscar Romero. *Challenges to Enforce Data Quality in Data Spaces*
   - <span style="color:#093"><b>Christoph Quix</b></span>. *Toward Advanced Query Processing in Dataspaces*
   - Juan Trujillo, Gustavo Candela, Alejandro Reina-Reina. *Data Analytics and Artificial Intelligence in the new scenario of Data Spaces*   
-- Adriana Morejón, Alberto Berenguer, Lucía de Espona, David Tomás, José-Norberto Mazón. *Exploring Content-Based Catalogs for Enhanced Discovery Services in Data Spaces (Short paper)*
+- Adriana Morejón, Alberto Berenguer, <span style="color:#093"><b>Lucía de Espona</b></span>, David Tomás, José-Norberto Mazón. *Exploring Content-Based Catalogs for Enhanced Discovery Services in Data Spaces (Short paper)*
 
 **12:30-14:00 Lunch**
 
