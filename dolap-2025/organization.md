@@ -22,6 +22,9 @@ hero_height: is-medium
 - **Matteo Lissandrini**, University of Verona, Italy - matteo.lissandrini-at-univr.it
 - **Alejandro Maté**, University of Alicante, Spain - amate@dlsi.ua.es
 
+<img src="/img/dolap_2025_EU-logo.png" alt="funded by EU" />
+<img src="/img/dolap_2025_Project-logo.png" alt="funded by the ministry" />
+
 ## Steering Committee
 
 - **Alberto Abelló**, Universitat Politecnica de Catalunya, Spain
