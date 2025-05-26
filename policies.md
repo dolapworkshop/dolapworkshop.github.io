@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DOLAP policies
-subtitle: Proceedings and websites
+subtitle: Bylaws & DEI
 description: Disclosure of policies of the DOLAP workshop.
 hero_image: /img/hero/policies.jpg
 hero_darken: true
