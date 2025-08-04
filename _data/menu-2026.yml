@@ -1,0 +1,20 @@
+- label: DOLAP 2026
+  items:
+    - name: News
+      link: /dolap-2026#news
+    - name: Important dates
+      link: /dolap-2026/important-dates
+    - name: Call For Papers
+      link: /dolap-2026/call-for-papers
+    - name: Organization
+      link: /dolap-2026/organization
+    - name: Keynote
+      link: /dolap-2026/keynote
+    - name: Program
+      link: /dolap-2026/program
+- label: Social channels
+  items:
+    - name: "@DOLAPworkshop (X/Twitter)"
+      link: https://twitter.com/DOLAPworkshop
+    - name: "@DOLAPworkshop (Mastodon)"
+      link: https://mastodon.social/@DOLAPworkshop
