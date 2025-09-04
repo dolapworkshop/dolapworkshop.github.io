@@ -23,12 +23,22 @@ The best papers presented at DOLAP will be invited to a special issue of [Inform
 The page limit is **8 pages** for full papers, **4 pages** for short papers, and **2 pages** for extended abstracts (in **CEUR format**, double-column, excluding references). Each submission will be reviewed by 3 members of the program committee, the review process is single-blind, and thus authors must include their names and affiliations in submissions. 
 Extended abstracts are short papers with an abstract, a main body, and references but have only 2 standard pages of content, references included. 
  
-## Interactive Panel Session on: TBD
+## Interactive Panel Session on: Sustainable Analytics
 
-For DOLAP 2026, we solicit extended abstracts about perspectives on exciting and controversial issues of broad interest to the community around the topic of TBD. 
-Extended abstracts on this topic can present a vision as well as early or negative results, or comments that can influence recent advancements and research directions. For instance:
+For DOLAP 2026, we solicit extended abstracts about perspectives on exciting and controversial issues of broad interest to the community surrounding the topic of Sustainable Analytics. As analytics and AI become more resource-intensive and enable us to process ever-larger amounts of data, their environmental impact also increases. Furthermore, trust and ethical issues arise from a limited understanding of the data being analyzed.     
+We welcome extended abstracts on this topic that can present a vision as well as early or negative results, or comments that can influence recent advancements and research directions. For instance:
 
-We welcome submissions that explore these questions or related topics, providing insights into the future of TBD and their role in shaping the landscape of data analytics and management.
+- How can we design more powerful analytics for large, heterogeneous datasets while minimizing carbon footprint and environmental impact?
+
+- What societal and environmental ethical challenges rise from resource-intensive analytics and how can we cope with them?
+
+- How can we leverage federated technologies, such as edge computing, federated learning, or data spaces among others to reduce energy consumption and data movement?
+
+- Can we design sustainable analytics that are still inclusive, ensuring accessibility for low-resource organizations?
+
+- How can we drive the design of analytical systems that promote sustainability in addition to performance and accuracy?
+
+We welcome submissions that explore these questions or related topics, providing insights into the future of Sustainable Analytics and their role in shaping the landscape of data analytics and management.
 
 The panel session will feature **short presentations followed by extensive and interactive discussions** on the presented topics. We encourage the authors to propose topics and perspectives that will engage the audience and ignite debate among the participants. Ultimately, the goal is to tap into one of the original functions of workshops as a forum for discussion, where researchers come together to brainstorm and contribute to paving the way for future research directions.
 
