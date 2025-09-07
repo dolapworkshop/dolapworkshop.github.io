@@ -17,7 +17,7 @@ hero_height: is-medium
 
 
 - **Alejandro Maté**, University of Alicante, Spain - amate-at-dlsi.ua.es
-- **Eleni Tzirita**, Hasso Plattner Institute, Germany - eleni.tziritazacharatou-at-hpi.de
+- **Eleni Tzirita Zacharatou**, Hasso Plattner Institute, Germany - eleni.tziritazacharatou-at-hpi.de
 
 
 <img src="/img/dolap_2026_EU-logo.png" alt="funded by EU" />

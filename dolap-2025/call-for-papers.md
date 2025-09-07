@@ -38,6 +38,8 @@ Extended abstracts on this topic can present a vision as well as early or negati
 
 - What new opportunities and challenges do Data Spaces present for machine learning and AI applications?
 
+- How can we improve provenance tracking and data bias awareness to enable more trustworthy and ethical analytics?
+
 
 We welcome submissions that explore these questions or related topics, providing insights into the future of Data Spaces and their role in shaping the landscape of data analytics and management.
 

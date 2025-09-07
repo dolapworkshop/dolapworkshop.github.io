@@ -22,6 +22,6 @@ Program Chairs are included in the SC and continue to serve as SC members after 
 
 DOLAP has always recognized the critical importance of fostering a diverse, equitable, and inclusive environment within the scientific community. Efforts are consistently made to ensure diversity among speakers and participants, to support inclusive reviewing practices, and to maintain a welcoming and respectful atmosphere for all attendees.
 
-In light of the traditional co-location with EDBT/ICDT, DOLAP supports the [DEI statement of EDBT/ICDT](https://edbticdt2025.upc.edu/?contents=di_statement.html), promotes inclusive values across dimensions such as age, gender, gender identity, race, cultural background, religion, physical and mental ability, sexual orientation, and parental or marital status.
+In light of the traditional co-location with EDBT/ICDT, DOLAP supports the [DEI statement of EDBT/ICDT](https://edbticdt2026.github.io/?contents=DEI_statement.html), promotes inclusive values across dimensions such as age, gender, gender identity, race, cultural background, religion, physical and mental ability, sexual orientation, and parental or marital status.
 
 Fostering diversity and inclusion is recognized as essential to advancing scientific progress, and DOLAP remains committed to continuous improvement in this area.
