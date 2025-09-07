@@ -38,9 +38,6 @@ Extended abstracts on this topic can present a vision as well as early or negati
 
 - What new opportunities and challenges do Data Spaces present for machine learning and AI applications?
 
-- How can we improve provenance tracking and data bias awareness to enable more trustworthy and ethical analytics?
-
-
 We welcome submissions that explore these questions or related topics, providing insights into the future of Data Spaces and their role in shaping the landscape of data analytics and management.
 
 The panel session will feature **short presentations followed by extensive and interactive discussions** on the presented topics. We encourage the authors to propose topics and perspectives that will engage the audience and ignite debate among the participants. Ultimately, the goal is to tap into one of the original functions of workshops as a forum for discussion, where researchers come together to brainstorm and contribute to paving the way for future research directions.
