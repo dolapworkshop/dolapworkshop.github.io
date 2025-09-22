@@ -74,7 +74,7 @@ hero_height: is-medium
 - **Marcin Gorawski**, Silesian University of Technology
 - **Le Gruenwald**, The University of Oklahoma
 - **Fernando Gualo**, University of Castilla-La Mancha
-- **Andra-Denis Ionescu**, TU Delft
+- **Andra-Denis Ionescu**, KTH
 - **Shiva Jahangiri**, Santa Clara University
 - **Nicolas Labroche**,  University of Tours
 - **Ana Lavalle**, University of Alicante
