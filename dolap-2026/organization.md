@@ -49,57 +49,45 @@ hero_height: is-medium
 
 ## Program Committee
 
-- **Alberto Abelló**, Universitat Politècnica de Catalunya 
-- **Julien Aligon**, Université Toulouse 1 Capitole
 - **Ahmed MHA Awad**, The British University in Dubai
-- **Antonio Badia**, University of Louisville
-- **Ladjel Bellatreche**, ISAE-ENSMA
-- **Rafael Berlanga Llavori**, University Jaume I
-- **Besim Bilalli**, Universitat Politécnica de Catalunya
-- **Laurent Bindschaedler**, MPI-SWS
-- **Martin Boissier**, Hasso Plattner Institute
-- **Tania Cerquitelli**, Politecnico di Torino
-- **Silvia Chiusano**, Politecnico di Torino
+- **Alberto  Abelló**, Universitat Politècnica de Catalunya 
 - **Alfredo  Cuzzocrea**, Universitá della Calabria
-- **Jerome Darmont**, ERIC - Université Lumière Lyon 2
-- **Stefania Dumbrava**, ENSIIE
-- **Lorena Etcheverry**, Universidad de la República
-- **BENTAYEB Fadila**,  University Lumiere Lyon 2
-- **Matteo Francia**, University of Bologna
-- **Pedro Furtado**, Universidade de Coimbra
-- **Enrico Gallinucci**, University of Bologna
-- **Johann Gamper**, Free University of Bozen
-- **Chang Ge**, University of Minnesota
-- **Matteo Golfarelli**, University of Bologna
-- **Marcin Gorawski**, Silesian University of Technology
-- **Le Gruenwald**, The University of Oklahoma
-- **Fernando Gualo**, University of Castilla-La Mancha
-- **Andra-Denis Ionescu**, KTH
-- **Shiva Jahangiri**, Santa Clara University
-- **Nicolas Labroche**,  University of Tours
-- **Ana Lavalle**, University of Alicante
-- **Wolfgang Lehner**,  TU Dresden
-- **Xiufeng Liu Technical**, University of Denmark
-- **Patrick Marcel**,  University of Orléans
-- **Adriana Marotta**, Universidad de la República
-- **Jose-Norberto Mazón**,  Universidad de Alicante
-- **Rokia Missaoui**, UQO
-- **Sergi Nadal**,  Universitat Politècnica de Catalunya
-- **Carlos Ordonez**, University of Houston
-- **Matteo Paganelli**, University of Modena and Reggio Emilia
-- **Oscar Romero**, Universitat Politècnica de Catalunya
-- **Dimitris Sacharidis**,  ULB
-- **Alkis Simitsis**, Athena Research Center
-- **Kostas Stefanidis**,  Tampere University
-- **Olivier Teste**,  IRIT, University of Toulouse
-- **Dimitri Theodoratos**, New Jersey Institute of Technology
-- **Maik Thiele**, Hochschule für Technik und Wirtschaft Dresden
-- **Christian Thomsen**, Aalborg University
-- **Riccardo Tommasini**, INSA Lyon - LIRIS
-- **Goce Trajcevski**, Iowa State University
-- **Juan Trujillo**, University of Alicante
-- **Panos Vassiliadis**, University of Ioannina
-- **António C. Vieira**,  University of Minho
-- **Hannes Voigt**, Neo4j
-- **Robert Wrembel**, Poznan University of Technology
-- **Esteban Zimanyi**, Universite Libre de Bruxelles
+- **Alkis  Simitsis**, Athena Research Center
+- **Ana  Lavalle**, University of Alicante
+- **Andra  Ionescu**, KTH
+- **Antonio  Badia**, University of Louisville
+- **António C. Vieira**, University of Minho
+- **BENTAYEB  Fadila**,  University Lumiere Lyon 2
+- **Besim  Bilalli**, Universitat Politécnica de Catalunya
+- **Carlos  Ordonez**, University of Houston
+- **Chang  Ge**, University of Minnesota
+- **Christian  Thomsen**, Aalborg University
+- **Dimitri   Theodoratos**, New Jersey Institute of Technology
+- **Enrico  Gallinucci**, DISI - University of Bologna
+- **Esteban  Zimanyi**, Universite Libre de Bruxelles
+- **Goce  Trajcevski**, Iowa State University
+- **Jerome  Darmont**, Universite Lyon 2
+- **Johann  Gamper**, Free University of Bozen-Bolzano, Italy
+- **Jose-Norberto  Mazón**, Universidad de Alicante
+- **Juan  Trujillo**, University of Alicante
+- **Julien  Aligon**, Université Toulouse 1 Capitole
+- **Kostas  Stefanidis**, Tampere University
+- **Ladjel  Bellatreche**, ISAE-ENSMA
+- **Laurent  Bindschaedler**, MPI-SWS
+- **Maik  Thiele**, Hochschule für Technik und Wirtschaft Dresden
+- **Marcin  Gorawski**, Silesian University of Technology
+- **Matteo  Francia**, DISI - University of Bologna
+- **Matteo  Golfarelli**, DISI - University of Bologna
+- **Matteo  Lissandrini**, University of Verona
+- **Nicolas  Labroche**, University of Tours
+- **Olivier   Teste**, IRIT, University of Toulouse
+- **Oscar  Romero**, Universitat Politècnica de Catalunya
+- **Panos  Vassiliadis**, University of Ioannina
+- **Patrick  Marcel**, University of Orléans
+- **Pedro  Furtado**, Universidade de Coimbra
+- **Rafael  Berlanga Llavori**, University Jaume I
+- **Robert  Wrembel**, Poznan University of Technology
+- **Rokia  Missaoui**, UQO
+- **Sergi  Nadal**, Universitat Politècnica de Catalunya
+- **Wolfgang  Lehner**, TU Dresden
+- **Xiufeng  Liu**, Technical University of Denmark
