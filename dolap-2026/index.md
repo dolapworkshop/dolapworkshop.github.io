@@ -31,5 +31,6 @@ message="Co-located with the [EDBT/ICDT 2026 Joint Conference](https://edbticdt2
 
 # News
 
-
+- (20/10/2025) Updated CFP
+- (13/10/2025) Updated Program Committee members
 - (01/08/2025) The website is online.
