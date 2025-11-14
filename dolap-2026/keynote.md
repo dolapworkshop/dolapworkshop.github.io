@@ -10,7 +10,7 @@ hero_darken: true
 hero_height: is-medium
 ---
 
-# Keynote by TBD
+# Keynote by Prof. Dr. Tilmann Rabl 
 
 ## Title:   TBD
 
@@ -19,4 +19,6 @@ hero_height: is-medium
 TBD
 
 ## About the speaker: 
+Tilmann Rabl holds the chair for Data Engineering Systems at the Hasso Plattner Institute and is Professor at the Digital Engineering Faculty of the University of Potsdam. He is also cofounder and scientific director of the startup bankmark. Tilmann Rabl received his PhD at the University of Passau in 2011. He spent 4 years at the University of Toronto as a postdoc in the Middleware Systems Research Group (MSRG). From 2015 to 2019, he was senior researcher and visiting professor at the Database Systems and Information Management (DIMA) group at Technische Universität Berlin and Vice Director of the Intelligent Analytics for Massive Data (IAM) Group at the German Research Center for Artificial Intelligence (DFKI). 
 
+Prof. Dr. Tilmann Rabl has conducted extensive research in Big Data analytics and processing, including several works focused on efficient computing and optimization. He has participated in numerous high-impact international venues, holding several awards including EDBT Best Experiments and Analysis Paper, EDBT, ICDE & SIGMOD Best paper awards as well as ICDE Outstanding Meta-Reviewer and SIGMOD Distinguised Reviewer among others.   

@@ -26,11 +26,12 @@ status=" "
 message="Co-located with the [EDBT/ICDT 2026 Joint Conference](https://edbticdt2026.github.io/), DOLAP 2026 will also feature some important news.
 
 - An [interactive panel session](call-for-papers#XXX) to encourage open discussion on a DOLAP-related cutting-edge topic (submissions via extended abstracts)
-- Shorter [page limits](call-for-papers#call-for-papers) (8 for full papers, 4 for short papers)
+- Larger [page limits](call-for-papers#call-for-papers) (12 for full papers, 6 for short papers) to accommodate for the new CEUR-WS format
 " %} 
 
 # News
 
+- (14/11/2025) **Important**: Updated Keynote information and extended submission length in CFP
 - (20/10/2025) Updated CFP
 - (13/10/2025) Updated Program Committee members
 - (01/08/2025) The website is online.

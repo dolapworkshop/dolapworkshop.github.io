@@ -21,7 +21,7 @@ The best papers presented at DOLAP will be invited to a special issue of [Inform
 - **Short papers** include (ongoing) novel research works with preliminary results and vision/position papers outlining research issues for future work.
 - **Extended abstract** will be invited to present in the interactive panel session, and include initial controversial ideas and visions, reports on early (or negative) results, or reflections on existing and future challenges on the theme of the interactive session. 
 
-The page limit is **8 pages** for full papers, **4 pages** for short papers, and **2 pages** for extended abstracts (in **CEUR format**, single-column, excluding references). Each submission will be reviewed by 3 members of the program committee, the review process is single-blind, and thus authors must include their names and affiliations in submissions. 
+The page limit is **12 pages** for full papers, **6 pages** for short papers, and **3 pages** for extended abstracts (in **CEUR format**, single-column, excluding references). Each submission will be reviewed by 3 members of the program committee, the review process is single-blind, and thus authors must include their names and affiliations in submissions. 
 Extended abstracts are short papers with an abstract, a main body, and references but have only 2 standard pages of content, references included. 
  
 ## Interactive Panel Session on: Sustainable Analytics
@@ -71,9 +71,9 @@ Submissions will be accepted only through the submission site CMT at: [**https:/
 
 Double submissions to any other conference, workshop, or track of EDBT/ICDT will be rejected.
 
-DOLAP papers must follow the **CEUR Proceedings Format**. Please use the Overleaf template at [this link](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). Further instructions on copyright information for DOLAP will follow.
+DOLAP papers must follow the **CEUR Proceedings Format**. Note that starting this year the only valid format is **single column**. Please use the Overleaf template at [this link](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). Further instructions on copyright information for DOLAP will follow.
 
-Long papers cannot exceed 8 pages in length, short papers cannot exceed 4, and extended abstract cannot exceed 2 (excluding references).
+Long papers cannot exceed 12 pages in length, short papers cannot exceed 6, and extended abstract cannot exceed 3 (excluding references).
 
 The proceedings of the workshop will be published online as a volume of the [CEUR Workshop Proceedings](http://www.ceur-ws.org/), a well-known website for publishing workshop proceedings. It is indexed by the major publication portals, such as [DBLP](https://dblp.uni-trier.de/db/conf/dolap/index.html), Citeseer, and Google Scholar.
 
