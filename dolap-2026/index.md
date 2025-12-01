@@ -31,8 +31,9 @@ message="Co-located with the [EDBT/ICDT 2026 Joint Conference](https://edbticdt2
 
 # News
 
+- (01/11/2025) **Important**: Extended submission deadline  
 - (25/11/2025) Updated Keynote details
-- (14/11/2025) **Important**: Updated Keynote information and extended submission length in CFP
+- (14/11/2025) **Important**: Updated Keynote speaker [Prof. Dr. Tilmann Rabl]. Extended submission length in CFP
 - (20/10/2025) Updated CFP
 - (13/10/2025) Updated Program Committee members
 - (01/08/2025) The website is online.

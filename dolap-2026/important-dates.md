@@ -14,8 +14,8 @@ hero_height: is-medium
 
 Deadlines are at 11:59pm PST.
 
-- Paper submission: December 5th, 2025
-- Authors notification: January 30th, 2026
+- Paper submission: ~~December 5th, 2025~~ **Dec 19th, 2025**
+- Authors notification: January 30th, 2026 
 - Camera-ready: February 20th, 2026 
 - Workshop date: March 24, 2026
 
