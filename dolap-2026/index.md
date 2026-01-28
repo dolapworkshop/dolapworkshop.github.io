@@ -31,6 +31,7 @@ message="Co-located with the [EDBT/ICDT 2026 Joint Conference](https://edbticdt2
 
 # News
 
+- (28/01/2026) Notification date has been pushed back few days. We apologize for the inconvenience
 - (19/12/2025) **Important**: Extended submission deadline to the 23rd **FINAL**  
 - (01/12/2025) **Important**: Extended submission deadline  
 - (25/11/2025) Updated Keynote details
