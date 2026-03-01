@@ -26,12 +26,11 @@ The accepted papers are listed in no particular order.
 ## Accepted short papers
 
 - Emaz Uddin Ahmad, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
-(Short paper)
-- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
-- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
-- Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (SHort paper)
-- Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
-- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
+- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization 
+- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances 
+- Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity
+- Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake 
+- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP 
 
 
 
