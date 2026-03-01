@@ -16,6 +16,29 @@ The accepted papers are listed in no particular order.
 
 ## Accepted full papers
 
-TBD
+- Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, Alexander Selzer. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
+- Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
+- Alberto Abello, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
+- Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, Verónika Peralta. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
+- Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
+- Vassilis Stamatopoulos, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
+
+## Accepted short papers
+
+- Emaz Uddin Ahmad, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
+(Short paper)
+- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
+- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
+- Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (SHort paper)
+- Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
+- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
+
+
+
+
+
+
+
+
 
 
