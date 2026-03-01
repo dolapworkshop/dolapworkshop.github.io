@@ -18,13 +18,9 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 9:00 - 10:30 Opening, Research Session I - Optimization & Performance
 
 - DOLAP 2026 Opening - Eleni Tzirita Zacharatou, Alejandro Maté
-- Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo,
-Cem Okulmus, Reinhard Pichler, Alexander Selzer. Selective Use of
-Yannakakis’ Algorithm for Consistent Performance Gains
-- Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the
-novel Analyze Operator
-- Emaz Uddin Ahmad, Maria Stratigi. Adaptive Noise Injection in
-Variational Autoencoders for Enhancing Fairness in Group Recommendations
+- Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, Alexander Selzer. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
+- Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
+- Emaz Uddin Ahmad, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
 (Short paper)
 
 11:00 – 12:30 Keynote, Panel Sustainable Analytics
@@ -36,25 +32,15 @@ Data Systems
 
 14:00 – 15:30 Best Paper award, Research Session II - Large Language
 Models and Mappings
-- Alberto Abello, Enrico Gallinucci. DORM: Dynamic Object-Relational
-Mapping
-- Felipe Vasconcelos, Cristina Aguiar. On the Efficacy of Using LLMs for
-Context Driven Entity Augmentation in Property Graphs
-- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query
-Canonicalization (Short paper)
-- Franziska Neuhof, Marco Fisichella. End-to-End Deep Entity Resolution
-without Labelled Instances (Short paper)
-- Matthew Damigos, Alan Petit. Computation of fuzzy joins over large
-collections of JSON data using semantic similarity (SHort paper)
+- Alberto Abello, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
+- Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, Verónika Peralta. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
+- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
+- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
+- Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (SHort paper)
 
 
 16:00 - 17:30 Research Session III - Analytics
-- Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in
-Complex Event Processing systems
-- Vassilis Stamatopoulos, Panos Gidarakos. Interpretable Highlights for
-Experiment Tracking
-- Mahdi Esmailoghi, Steven Purtzel. Every Data Lake Has a Past:
-Analytical Exploration of Wikipedia History as a Temporal Data Lake
-(Short paper)
-- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark
-for Data Freshness in HTAP (Short paper)
+- Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
+- Vassilis Stamatopoulos, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
+- Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
+- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
