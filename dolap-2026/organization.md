@@ -46,6 +46,7 @@ hero_height: is-medium
 - **Panos Vassiliadis**, University of Ioannina, Greece
 - **Robert Wrembel**, Poznan University of Technology, Poland
 - **Esteban Zimanyi**, Universite Libre de Bruxelles, Belgium
+- **Matteo Lissandrini**, University of Verona, Italy
 
 ## Program Committee
 
