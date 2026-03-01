@@ -4,7 +4,7 @@ title: 28th International Workshop on Design, Optimization, Languages and Analyt
 subtitle: Co-located with EDBT/ICDT 2026, Tampere, Findland - March 24, 2026
 description: DOLAP 2026, DOLAP is the International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data. The 28th edition of the workshop is co-located with the EDBT/ICDT 2026 conference and takes place in Tampere, Finland, on March 24, 2026. This page presents papers accepted to DOLAP 2026.
 show_sidebar: false
-menubar: menu-2025
+menubar: menu-2026
 hero_image: /img/hero/dolap-2026.jpg
 hero_darken: true
 hero_height: is-medium
@@ -18,7 +18,7 @@ The accepted papers are listed in no particular order.
 
 - Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, Alexander Selzer. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
 - Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
-- Alberto Abello, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
+- Alberto Abelló, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
 - Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, Verónika Peralta. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
 - Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
 - Vassilis Stamatopoulos, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
