@@ -18,9 +18,9 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 9:00 - 10:30 Opening, Research Session I - Optimization & Performance
 
 - DOLAP 2026 Opening - Eleni Tzirita Zacharatou, Alejandro Maté
-- Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, Alexander Selzer. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
+- Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, <span style="color:#093"><b>Alexander Selzer</b></span>. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
 - Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
-- Emaz Uddin Ahmad, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
+- <span style="color:#093"><b>Emaz Uddin Ahmad</b></span>, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
 (Short paper)
 
 11:00 – 12:30 Keynote, Panel Sustainable Analytics
@@ -39,6 +39,6 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 16:00 - 17:30 Research Session III - Analytics
 - Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
-- Vassilis Stamatopoulos, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
+- <span style="color:#093"><b>Vassilis Stamatopoulos</b></span>, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
 - Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
-- Takaaki Kanetsuki, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
+- <span style="color:#093"><b>Takaaki Kanetsuki</b></span>, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
