@@ -33,12 +33,11 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 - Alberto Abelló, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
 - Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, Verónika Peralta. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
 - Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
-- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
 - Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (Short paper)
-
+- <span style="color:#093"><b>Takaaki Kanetsuki</b></span>, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
 
 16:00 - 17:30 Research Session III - Analytics
 - Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
 - <span style="color:#093"><b>Vassilis Stamatopoulos</b></span>, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
 - Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
-- <span style="color:#093"><b>Takaaki Kanetsuki</b></span>, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
+- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
