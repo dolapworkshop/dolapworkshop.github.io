@@ -19,7 +19,7 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 - DOLAP 2026 Opening - Eleni Tzirita Zacharatou, Alejandro Maté
 - Daniela Böhm, Georg Gottlob, Matthias Lanzinger, Davide Mario Longo, Cem Okulmus, Reinhard Pichler, <span style="color:#093"><b>Alexander Selzer</b></span>. Selective Use of Yannakakis’ Algorithm for Consistent Performance Gains
-- Marios Iakovidis, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
+- <span style="color:#093"><b>Marios Iakovidis</b></span>, Panos Vassiliadis. Multi-Query Optimization for the novel Analyze Operator
 - <span style="color:#093"><b>Emaz Uddin Ahmad</b></span>, Maria Stratigi, Kostas Stefanidis. Adaptive Noise Injection in Variational Autoencoders for Enhancing Fairness in Group Recommendations
 (Short paper)
 
@@ -31,13 +31,13 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 
 14:00 – 15:30 Best Paper award, Research Session II - Large Language Models and Mappings
 - <span style="color:#093"><b>Alberto Abelló</b></span>, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
-- Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, Verónika Peralta. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
+- Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, <span style="color:#093"><b>Verónika Peralta</b></span>. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
 - Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
 - Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (Short paper)
 - <span style="color:#093"><b>Takaaki Kanetsuki</b></span>, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
 
 16:00 - 17:30 Research Session III - Analytics
-- Styliani Kyrama, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
+- <span style="color:#093"><b>Styliani Kyrama</b></span>, Anastasios Gounaris. Automated Pattern Extraction in Complex Event Processing systems
 - <span style="color:#093"><b>Vassilis Stamatopoulos</b></span>, Panos Gidarakos, Stavros Maroulis, George Papastefanatos, Panos Vassiliadis. Interpretable Highlights for Experiment Tracking
-- Mahdi Esmailoghi, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
-- Franziska Neuhof, Marco Fisichella, George Papadakis. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
+-  <span style="color:#093"><b>Mahdi Esmailoghi</b></span>, Steven Purtzel, Roee Shraga, Renée J. Miller, Matthias Weidlich. Every Data Lake Has a Past: Analytical Exploration of Wikipedia History as a Temporal Data Lake (Short paper)
+- Franziska Neuhof, Marco Fisichella, <span style="color:#093"><b>George Papadakis</b></span>. End-to-End Deep Entity Resolution without Labelled Instances (Short paper)
