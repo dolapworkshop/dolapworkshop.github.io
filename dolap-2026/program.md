@@ -32,8 +32,8 @@ Times are in CET - Central European Time (UTC+1h). Presenting authors are shown 
 14:00 – 15:30 Best Paper award, Research Session II - Large Language Models and Mappings
 - <span style="color:#093"><b>Alberto Abelló</b></span>, Enrico Gallinucci. DORM: Dynamic Object-Relational Mapping
 - Felipe Vasconcelos, Cristina Aguiar, Alexandre Chanson, Mirian Halfeld-Ferrari, Patrick Marcel, <span style="color:#093"><b>Verónika Peralta</b></span>. On the Efficacy of Using LLMs for Context Driven Entity Augmentation in Property Graphs
-- Laurent Bindschaedler. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
-- Alan Petit, Matthew Damigos, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (Short paper)
+- <span style="color:#093"><b>Laurent Bindschaedler</b>. Semantic Caching for OLAP via LLM-Based Query Canonicalization (Short paper)
+- Alan Petit, <span style="color:#093"><b>Matthew Damigos</b>, Laurent D'Orazio, Eleftherios Kalogeros. Computation of fuzzy joins over large collections of JSON data using semantic similarity (Short paper)
 - <span style="color:#093"><b>Takaaki Kanetsuki</b></span>, Toshiyuki Amagasa. A Simple and Reliable Benchmark for Data Freshness in HTAP (Short paper)
 
 16:00 - 17:30 Research Session III - Analytics
