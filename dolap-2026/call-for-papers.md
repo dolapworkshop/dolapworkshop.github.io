@@ -75,7 +75,5 @@ DOLAP papers must follow the **CEUR Proceedings Format**. Note that starting thi
 
 Long papers cannot exceed 12 pages in length, short papers cannot exceed 6, and extended abstract cannot exceed 3 (excluding references).
 
-The proceedings of the workshop will be published online as a volume of the [CEUR Workshop Proceedings](http://www.ceur-ws.org/), a well-known website for publishing workshop proceedings. It is indexed by the major publication portals, such as [DBLP](https://dblp.uni-trier.de/db/conf/dolap/index.html), Citeseer, and Google Scholar.
-
 ## Acknowledgements
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
