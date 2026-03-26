@@ -31,6 +31,7 @@ message="Co-located with the [EDBT/ICDT 2026 Joint Conference](https://edbticdt2
 
 # News
 
+- (26/03/2026) Published [CEUR Proceedings](https://ceur-ws.org/Vol-4186/)
 - (08/03/2026) Program has been updated
 - (01/03/2026) Program is up
 - (28/01/2026) Notification date has been pushed back few days. We apologize for the inconvenience
