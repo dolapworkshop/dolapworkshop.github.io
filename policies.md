@@ -34,7 +34,7 @@ The SC is the organ with the ultimate decision authority for DOLAP. The SC is ob
 
 The **SC Chair** (or simply, Chair) is the member of the SC who presides in the works of the SC and represents the SC to all third parties, unless a group of other persons is authorized to do so, either by the SC, or the Chair.
 
-The **SC Vice Chair** (or simply, Vice Chair) is the member of the SC that replaces the Chair in the Chair’s duties whenever the Chair is not available to fulfill his duties, or, whenever assigned the task by the SC or the Chair. 
+The **SC Vice Chair** (or simply, Vice Chair) is the member of the SC that replaces the Chair in the Chair's duties whenever the Chair is not available to fulfill his duties, or, whenever assigned the task by the SC or the Chair. 
 
 ## 3 Organization of the DOLAP workshop
 
@@ -70,7 +70,7 @@ There are two ways via which a person can leave the SC:
 
 (a) A SC member may withdraw him/herself any time from the SC by written communication to the SC Chair. The SC Chair must confirm the authenticity of the received message, and if positive, removes the person from the SC. 
 
-(b) Not attending DOLAP for 3 consecutive years blocks the renewal of the member’s term. 
+(b) Not attending DOLAP for 3 consecutive years blocks the renewal of the member's term. 
 
 (c) Unethical behavior of an SC member results in loss of the SC membership status. Changing the status accordingly is a serious issue and requires an extended majority; thus, such a disgraceful retirement is only done by obtaining the 3/4 of votes of all the SC members. 
 

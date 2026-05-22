@@ -1,6 +1,8 @@
 - name: DOLAP 2026
   link: /dolap-2026/
-- name: Policies
-  link: /policies
 - name: Previous editions
   link: /previous-editions
+- name: Policies
+  link: /policies
+- name: Steering Committee
+  link: /steering-committee
