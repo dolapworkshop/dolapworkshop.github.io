@@ -11,5 +11,5 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
 - jekyll-remote-theme
 title: DOLAP
-description: International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data
+description: "DOLAP: Data management fOr anaLytics and Ai Processing"
 fixed_navbar: top
