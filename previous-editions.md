@@ -12,6 +12,7 @@ hero_height: is-medium
 
 All references to the proceedings and websites of previous DOLAP editions.
 
+- [Proceedings](https://ceur-ws.org/Vol-4186) of the 28th DOLAP, Tampere, Finland, 2026 - [Website](https://dolapworkshop.github.io/dolap-2026/)
 - [Proceedings](https://ceur-ws.org/Vol-3931) of the 27th DOLAP, Barcelona, Spain, 2025 - [Website](https://dolapworkshop.github.io/dolap-2025/)
 - [Proceedings](https://ceur-ws.org/Vol-3653) of the 26th DOLAP, Paestum, Italy, 2024 - [Website](https://dolapworkshop.github.io/dolap-2024/)
 - [Proceedings](https://ceur-ws.org/Vol-3369) of the 25th DOLAP, Ioannina, Greece, 2023 - [Website](https://sites.google.com/view/dolap2023)
