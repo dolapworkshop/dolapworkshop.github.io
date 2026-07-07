@@ -21,4 +21,4 @@ Building upon an established tradition, DOLAP 2027 aims at synergistically conne
 
 # News
 
-- (2026-06-26) The website is online.
+- (2026-07-07) The website is online.
