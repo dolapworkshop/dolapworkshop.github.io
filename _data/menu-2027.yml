@@ -12,9 +12,4 @@
       link: /dolap-2027/keynote
     - name: Program
       link: /dolap-2027/program
-- label: Social channels
-  items:
-    - name: "@DOLAPworkshop (X/Twitter)"
-      link: https://twitter.com/DOLAPworkshop
-    - name: "@DOLAPworkshop (Mastodon)"
-      link: https://mastodon.social/@DOLAPworkshop
+
