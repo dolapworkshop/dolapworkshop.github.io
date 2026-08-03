@@ -14,7 +14,7 @@ hero_height: is-medium
  
 DOLAP accepts short and long paper submissions.
  
-The best papers presented at DOLAP are expected to be invited to a special issue of [Information Systems](https://www.journals.elsevier.com/information-systems).
+The best papers presented at DOLAP will be invited to a special issue of [Information Systems](https://www.journals.elsevier.com/information-systems).
  
 - **Long papers** include novel and mature research, industrial, or survey work. Long papers of good quality but not mature enough might be accepted to the workshop as short papers.
 - **Short papers** include (ongoing) novel research works with preliminary results and vision/position papers outlining research issues for future work.
