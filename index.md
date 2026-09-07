@@ -20,6 +20,8 @@ DOLAP is a premier colloquium of the international scientific community with the
 
 Every year, the best papers published at DOLAP are invited to submit extended version to a special issue on a highly reputed international journal (like [Information Systems](https://www.sciencedirect.com/journal/information-systems) or [Data & Knowledge Engineering](https://www.sciencedirect.com/journal/data-and-knowledge-engineering)).
 Moreover, the high-quality program of DOLAP includes **invited keynotes** from reputed speakers, a **best paper** award since 2020, and uses **open proceedings** since 2017. A **test-of-time award** was given in 2023 to celebrate the 25th edition of DOLAP.
+
+*Stay tuned with every DOLAP update on [LinkedIn](https://www.linkedin.com/company/dolap-workshop/).*
  
 ## Research focus
 
