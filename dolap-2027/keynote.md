@@ -10,14 +10,15 @@ hero_darken: true
 hero_height: is-medium
 ---
 
-# Keynote TBA 
+# Keynote by [Prof. Dr. Matthias Boehm](https://mboehm7.github.io/)
 
-## Title: TBA
+## Title: System Infrastructure for Data-centric ML Pipelines
 
 **Abstract** 
 
 TBA
 
 ## About the speaker: 
+![image](https://mboehm7.github.io/resources/MatthiasBoehm.jpg)
 
 TBA

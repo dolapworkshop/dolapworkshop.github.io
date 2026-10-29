@@ -16,5 +16,6 @@ Building upon an established tradition, DOLAP 2027 aims at synergistically conne
 
 # News
 
+- (2026-10-29) Keynote Speaker and Program Committee announced
 - (2026-08-03) The best papers presented at DOLAP will be invited to a special issue of [Information Systems](https://www.journals.elsevier.com/information-systems).
 - (2026-07-07) The website is online.

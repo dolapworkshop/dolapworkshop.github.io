@@ -48,5 +48,32 @@ hero_height: is-medium
 
 ## Program Committee
 
-- TBA
-
+- **Alberto  Abelló**, Universitat Politècnica de Catalunya 
+- **Alejandro Maté**, University of Alicante
+- **Alfredo  Cuzzocrea**, Universitá della Calabria
+- **Alkis  Simitsis**, Athena Research Center
+- **Andra  Ionescu**, KTH Royal Institute of Technology
+- **António Vieira**, University of Minho
+- **Besim  Bilalli**, Universitat Politècnica de Catalunya
+- **Carlos  Ordonez**, University of Houston
+- **Dimitri   Theodoratos**, New Jersey Institute of Technology
+- **Enrico  Gallinucci**, DISI - University of Bologna
+- **Esteban  Zimanyi**, Universite Libre de Bruxelles
+- **Goce  Trajcevski**, Iowa State University
+- **Haralampos Gavriilidis**, BIFOLD & Tehnische Universität Berlin
+- **Julien  Aligon**, Université Toulouse 1 Capitole
+- **Kostas  Stefanidis**, Tampere University
+- **Laurent  Bindschaedler**, MPI-SWS
+- **Mahdi Esmailoghli**, University of Waterloo
+- **Maik  Thiele**, Hochschule für Technik und Wirtschaft Dresden
+- **Matteo  Lissandrini**, University of Verona
+- **Nicolas  Labroche**, University of Tours
+- **Oscar  Romero**, Universitat Politècnica de Catalunya
+- **Panos  Vassiliadis**, University of Ioannina
+- **Patrick  Marcel**, University of Orléans
+- **Pedro  Furtado**, Universidade de Coimbra
+- **Rafael  Berlanga Llavori**, University Jaume I
+- **Robert  Wrembel**, Poznan University of Technology
+- **Rokia  Missaoui**, UQO
+- **Sergi  Nadal**, Universitat Politècnica de Catalunya
+- **Wolfgang  Lehner**, TU Dresden
