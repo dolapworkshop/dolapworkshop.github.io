@@ -58,9 +58,9 @@ hero_height: is-medium
 - **Carlos  Ordonez**, University of Houston
 - **Dimitri   Theodoratos**, New Jersey Institute of Technology
 - **Enrico  Gallinucci**, DISI - University of Bologna
-- **Esteban  Zimanyi**, Universite Libre de Bruxelles
 - **Goce  Trajcevski**, Iowa State University
 - **Haralampos Gavriilidis**, BIFOLD & Tehnische Universität Berlin
+- **Jose-Norberto  Mazón**, Universidad de Alicante
 - **Julien  Aligon**, Université Toulouse 1 Capitole
 - **Kostas  Stefanidis**, Tampere University
 - **Laurent  Bindschaedler**, MPI-SWS
