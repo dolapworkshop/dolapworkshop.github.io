@@ -59,7 +59,7 @@ hero_height: is-medium
 - **Dimitri   Theodoratos**, New Jersey Institute of Technology
 - **Enrico  Gallinucci**, DISI - University of Bologna
 - **Goce  Trajcevski**, Iowa State University
-- **Haralampos Gavriilidis**, BIFOLD & Tehnische Universität Berlin
+- **Haralampos Gavriilidis**, ICSI, UC Berkeley
 - **Jose-Norberto  Mazón**, Universidad de Alicante
 - **Julien  Aligon**, Université Toulouse 1 Capitole
 - **Kostas  Stefanidis**, Tampere University
